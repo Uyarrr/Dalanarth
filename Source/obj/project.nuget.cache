@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "nlKsBaa6Q4IpGhGvhfJoQ6oYHzbLD7orxbLHjsJqW7FU5Xb/YOUmBjS4kh3QcLAJzxKy1lb5EdlAR8hQPaX1Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\Warthia C#\\Source\\Source.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.api\\3.0.3\\wcsharp.api.3.0.3.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.buffs\\3.0.4\\wcsharp.buffs.3.0.4.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.datetime\\3.0.0\\wcsharp.datetime.3.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.dummies\\3.0.0\\wcsharp.dummies.3.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.effects\\3.0.0\\wcsharp.effects.3.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.events\\3.0.4\\wcsharp.events.3.0.4.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.json\\3.0.0\\wcsharp.json.3.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.knockbacks\\3.0.0\\wcsharp.knockbacks.3.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.lightnings\\3.0.0\\wcsharp.lightnings.3.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.missiles\\3.0.4\\wcsharp.missiles.3.0.4.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.saveload\\3.0.1\\wcsharp.saveload.3.0.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.shared\\3.0.3\\wcsharp.shared.3.0.3.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.sync\\3.0.3\\wcsharp.sync.3.0.3.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\wcsharp.w3mmd\\3.0.0\\wcsharp.w3mmd.3.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

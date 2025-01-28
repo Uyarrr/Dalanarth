@@ -1,0 +1,308 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Source/1.0.0": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3",
+          "WCSharp.Buffs": "3.0.4",
+          "WCSharp.DateTime": "3.0.0",
+          "WCSharp.Dummies": "3.0.0",
+          "WCSharp.Effects": "3.0.0",
+          "WCSharp.Events": "3.0.4",
+          "WCSharp.Json": "3.0.0",
+          "WCSharp.Knockbacks": "3.0.0",
+          "WCSharp.Lightnings": "3.0.0",
+          "WCSharp.Missiles": "3.0.4",
+          "WCSharp.SaveLoad": "3.0.1",
+          "WCSharp.Shared": "3.0.3",
+          "WCSharp.Sync": "3.0.3",
+          "WCSharp.W3MMD": "3.0.0"
+        },
+        "runtime": {
+          "Source.dll": {}
+        }
+      },
+      "WCSharp.Api/3.0.3": {
+        "runtime": {
+          "lib/net6.0/WCSharp.Api.dll": {
+            "assemblyVersion": "3.0.3.0",
+            "fileVersion": "3.0.3.0"
+          }
+        }
+      },
+      "WCSharp.Buffs/3.0.4": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3",
+          "WCSharp.Dummies": "3.0.0",
+          "WCSharp.Events": "3.0.4",
+          "WCSharp.Shared": "3.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.Buffs.dll": {
+            "assemblyVersion": "3.0.4.0",
+            "fileVersion": "3.0.4.0"
+          }
+        }
+      },
+      "WCSharp.DateTime/3.0.0": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3",
+          "WCSharp.Events": "3.0.4",
+          "WCSharp.Shared": "3.0.3",
+          "WCSharp.Sync": "3.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.DateTime.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "WCSharp.Dummies/3.0.0": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3",
+          "WCSharp.Events": "3.0.4"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.Dummies.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "WCSharp.Effects/3.0.0": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3",
+          "WCSharp.Events": "3.0.4"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.Effects.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "WCSharp.Events/3.0.4": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3",
+          "WCSharp.Shared": "3.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.Events.dll": {
+            "assemblyVersion": "3.0.4.0",
+            "fileVersion": "3.0.4.0"
+          }
+        }
+      },
+      "WCSharp.Json/3.0.0": {
+        "dependencies": {
+          "WCSharp.Shared": "3.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.Json.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "WCSharp.Knockbacks/3.0.0": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3",
+          "WCSharp.Effects": "3.0.0",
+          "WCSharp.Events": "3.0.4",
+          "WCSharp.Shared": "3.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.Knockbacks.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "WCSharp.Lightnings/3.0.0": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3",
+          "WCSharp.Events": "3.0.4"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.Lightnings.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "WCSharp.Missiles/3.0.4": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3",
+          "WCSharp.Events": "3.0.4",
+          "WCSharp.Shared": "3.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.Missiles.dll": {
+            "assemblyVersion": "3.0.4.0",
+            "fileVersion": "3.0.4.0"
+          }
+        }
+      },
+      "WCSharp.SaveLoad/3.0.1": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3",
+          "WCSharp.Json": "3.0.0",
+          "WCSharp.Shared": "3.0.3",
+          "WCSharp.Sync": "3.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.SaveLoad.dll": {
+            "assemblyVersion": "3.0.1.0",
+            "fileVersion": "3.0.1.0"
+          }
+        }
+      },
+      "WCSharp.Shared/3.0.3": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.Shared.dll": {
+            "assemblyVersion": "3.0.3.0",
+            "fileVersion": "3.0.3.0"
+          }
+        }
+      },
+      "WCSharp.Sync/3.0.3": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3",
+          "WCSharp.Json": "3.0.0",
+          "WCSharp.Shared": "3.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.Sync.dll": {
+            "assemblyVersion": "3.0.3.0",
+            "fileVersion": "3.0.3.0"
+          }
+        }
+      },
+      "WCSharp.W3MMD/3.0.0": {
+        "dependencies": {
+          "WCSharp.Api": "3.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/WCSharp.W3MMD.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Source/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WCSharp.Api/3.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aJW7J7iDiHT0eKBIUWvlOanBSTIqiWHnln+nNaTPNgOvVi0DinVFDi8ROn1d3vaTAJFf2x+oj/T0SRYUNSpuqA==",
+      "path": "wcsharp.api/3.0.3",
+      "hashPath": "wcsharp.api.3.0.3.nupkg.sha512"
+    },
+    "WCSharp.Buffs/3.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vfgeZYhiR58GPs3Py1Q0b2m1XCEYbLL25N5vOYJE7InbGDlYZD9Idlc4w0JOSz+RBLVVhgy+6WWcxzT9Hma+1w==",
+      "path": "wcsharp.buffs/3.0.4",
+      "hashPath": "wcsharp.buffs.3.0.4.nupkg.sha512"
+    },
+    "WCSharp.DateTime/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mAMIkO1b7ygLIoXZw/Y4CXAhNJjCcGoRg0AHq/1ZDbDWaEFF776P05gh/VGtBflwjAJ79oP5dQTqcLi5+pTftQ==",
+      "path": "wcsharp.datetime/3.0.0",
+      "hashPath": "wcsharp.datetime.3.0.0.nupkg.sha512"
+    },
+    "WCSharp.Dummies/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eZ90Byq+CBrbsYxMRlQne90TPBw1r/exQz+uPpjD6D2yrogQfcaZlsjy3ig4GRwstEuDLxxqQqABrR6RNItkww==",
+      "path": "wcsharp.dummies/3.0.0",
+      "hashPath": "wcsharp.dummies.3.0.0.nupkg.sha512"
+    },
+    "WCSharp.Effects/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3IaLT8/ok+wOGvX+wENl2PiU6EWdlG0s0Dtktd6XLxJ8Os5wurFjHh87zFc3Epb1GwLOgWYbBdOQ8oOZyuzSOQ==",
+      "path": "wcsharp.effects/3.0.0",
+      "hashPath": "wcsharp.effects.3.0.0.nupkg.sha512"
+    },
+    "WCSharp.Events/3.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+LDyCsQxsdiVxQZU35mkF/h9VvBGDBKKUaYC1jtHqF90gqqoqCL5zcIc+gLZvKlWTmjKKztkMLkniXTFj59icQ==",
+      "path": "wcsharp.events/3.0.4",
+      "hashPath": "wcsharp.events.3.0.4.nupkg.sha512"
+    },
+    "WCSharp.Json/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UbrGjUJC+RuUSmyE98QY5R+7az/83dfYxXt/UIA9pYtM+ZBagU1v8/EEmzGpqZQSAr5VEt93Qdclx9O0dp4rlw==",
+      "path": "wcsharp.json/3.0.0",
+      "hashPath": "wcsharp.json.3.0.0.nupkg.sha512"
+    },
+    "WCSharp.Knockbacks/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1aEUsci6rrFCCdE6zUGt9R7rqS2oOKAtAJmFUdUtM5+HsStYI0zs8re3iecJMhIBK3hCW5OBzcXoP4w8TGYPZg==",
+      "path": "wcsharp.knockbacks/3.0.0",
+      "hashPath": "wcsharp.knockbacks.3.0.0.nupkg.sha512"
+    },
+    "WCSharp.Lightnings/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1azI3b4OFQe4h+xs/WaT13YANLUtMNzl3OyMkAJWpoOqEPTsGs5hee1/Dn5I7Eydw8vTTMcixDmBBbsXcb/okA==",
+      "path": "wcsharp.lightnings/3.0.0",
+      "hashPath": "wcsharp.lightnings.3.0.0.nupkg.sha512"
+    },
+    "WCSharp.Missiles/3.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DJpJgv2skWJjDK576KqKXFlwrhCr2y2BxuZzMOBy1cNNDhdBmkKn/sXXv5MIQO4SU5vML7xxr/7mGmRZ6LT8qA==",
+      "path": "wcsharp.missiles/3.0.4",
+      "hashPath": "wcsharp.missiles.3.0.4.nupkg.sha512"
+    },
+    "WCSharp.SaveLoad/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VRJ7QsFxJH+9GfSyjc3LZGyteOF54cuhSjlTV0KERHapSLIpwEDAVakZP66v9pWVCry0s5+MN9EIl07zNLW3yg==",
+      "path": "wcsharp.saveload/3.0.1",
+      "hashPath": "wcsharp.saveload.3.0.1.nupkg.sha512"
+    },
+    "WCSharp.Shared/3.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/k9wgbac+yiiR+WJFhwjT1jyZRHJF43Nf3CBdpj1QgeOmLM5aG80PsGJ3dlNnHAnTIk7y9/rGA/Q5ws9SfWECQ==",
+      "path": "wcsharp.shared/3.0.3",
+      "hashPath": "wcsharp.shared.3.0.3.nupkg.sha512"
+    },
+    "WCSharp.Sync/3.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2LP5qPBCcxvbFNkUAGxgK6vk0oK/h1TaN+LbhFH7lTq1hVBHbmtOHXTi2tI2YYQKIWDxph9lFbmpLM/XGTp3uw==",
+      "path": "wcsharp.sync/3.0.3",
+      "hashPath": "wcsharp.sync.3.0.3.nupkg.sha512"
+    },
+    "WCSharp.W3MMD/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vLmxcZIX7mazYoHeaVK3xQE8mUjEW2D688HTVrRMFMfUoNf4iC+Iw0PQVpYpoDPklxornAvRAAlZlkDaW79jAg==",
+      "path": "wcsharp.w3mmd/3.0.0",
+      "hashPath": "wcsharp.w3mmd.3.0.0.nupkg.sha512"
+    }
+  }
+}

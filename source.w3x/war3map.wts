@@ -1,0 +1,7284 @@
+﻿STRING 1
+{
+Player 1
+}
+
+STRING 3
+// Units: H005 (Country), Name (Name)
+{
+Country
+}
+
+STRING 5
+{
+Production:
+}
+
+STRING 6
+{
+Production
+}
+
+STRING 8
+{
+All attacks do full damage to Medium armor.
+}
+
+STRING 9
+{
+Manpower:
+}
+
+STRING 10
+{
+Manpower
+}
+
+STRING 11
+{
+Manpower
+}
+
+STRING 12
+{
+Tax:
+}
+
+STRING 13
+{
+Tax
+}
+
+STRING 18
+// Units: o001 (Archer), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 25
+// Abilities: A008 (Invest on Defences), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 27
+{
+Warthia v0.42
+}
+
+STRING 28
+{
+Fullhouse!
+}
+
+STRING 29
+{
+New Game Mode that Merges RTS with an Autobattler!
+AI can play with 5 different nations. Easy, Normal or Insane Difficulty actually matters. If AI is too easy for you, you can go for Insane Difficulty.
+
+Discord: www.discord.gg/dXsCYyb
+
+}
+
+STRING 30
+{
+Uyarrr
+}
+
+STRING 33
+// Units: h000 (Spearman), Tip (Tooltip - Basic)
+{
+Train Spearman
+}
+
+STRING 34
+// Units: o000 (Crossbowman), Tip (Tooltip - Basic)
+{
+Train Crossbowman
+}
+
+STRING 35
+// Units: o001 (Archer), Tip (Tooltip - Basic)
+{
+Train Archer
+}
+
+STRING 36
+// Abilities: A000 (Invest on Agriculture), Tip (Tooltip - Normal)
+{
+Invest on Agriculture
+}
+
+STRING 37
+// Abilities: A000 (Invest on Agriculture), Name (Name)
+{
+Invest on Agriculture
+}
+
+STRING 38
+// Units: h000 (Spearman), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 40
+// Units: h003 (Banner Bearer), Name (Name)
+{
+Banner Bearer
+}
+
+STRING 41
+// Abilities: A001 (Summon Melee Units), Name (Name)
+{
+Summon Melee Units
+}
+
+STRING 42
+// Abilities: A001 (Summon Melee Units), Tip (Tooltip - Normal)
+{
+Summon Melee Units
+}
+
+STRING 44
+// Abilities: A001 (Summon Melee Units), Hotkey (Hotkey - Normal)
+{
+Z
+}
+
+STRING 45
+// Abilities: A002 (Summon Ranged Units), Name (Name)
+{
+Summon Ranged Units
+}
+
+STRING 46
+// Abilities: A002 (Summon Ranged Units), Tip (Tooltip - Normal)
+{
+Summon Ranged Units
+}
+
+STRING 48
+// Abilities: A002 (Summon Ranged Units), Hotkey (Hotkey - Normal)
+{
+X
+}
+
+STRING 49
+{
+Player 2
+}
+
+STRING 50
+{
+Player 3
+}
+
+STRING 51
+{
+Player 4
+}
+
+STRING 60
+{
+Player 13
+}
+
+STRING 61
+{
+Player 14
+}
+
+STRING 62
+{
+Player 15
+}
+
+STRING 63
+{
+Player 16
+}
+
+STRING 75
+// Abilities: A003 (Sort: Melee), Name (Name)
+{
+Sort: Melee
+}
+
+STRING 76
+// Abilities: A004 (Sort: Ranged), Name (Name)
+{
+Sort: Ranged
+}
+
+STRING 82
+// Abilities: A013 (Order to Move), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 84
+// Abilities: A007 (Regroup), Name (Name)
+{
+Regroup
+}
+
+STRING 85
+// Abilities: A007 (Regroup), Tip (Tooltip - Normal)
+{
+Regroup
+}
+
+STRING 87
+// Abilities: A017 (Demand Lumber Income for Truce), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 88
+// Abilities: A000 (Invest on Agriculture), Ubertip (Tooltip - Normal - Extended)
+{
+|cFF00FF00+1 |r|cFFFFFFFFFood|r
+}
+
+STRING 89
+// Abilities: A008 (Invest on Defences), Tip (Tooltip - Normal)
+{
+Invest on Defences
+}
+
+STRING 90
+// Abilities: A008 (Invest on Defences), Name (Name)
+{
+Invest on Defences
+}
+
+STRING 92
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), effect1 (Effect 1)
+{
+rhpo
+}
+
+STRING 93
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), effect2 (Effect 2)
+{
+ratx
+}
+
+STRING 94
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 95
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 96
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 97
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 98
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 99
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 100
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 101
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 102
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 103
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 104
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 105
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 106
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 107
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 108
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 109
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 110
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 111
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 112
+// Upgrades: Rhac (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Improved Masonry
+}
+
+STRING 120
+// Abilities: A00B (Invest on Science), Tip (Tooltip - Normal)
+{
+Invest on Science
+}
+
+STRING 121
+// Abilities: A00B (Invest on Science), Name (Name)
+{
+Invest on Science
+}
+
+STRING 126
+// Units: o000 (Crossbowman), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 127
+// Abilities: A01B (Call to Arms), Hotkey (Hotkey - Normal)
+{
+R
+}
+
+STRING 130
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), effect1 (Effect 1)
+{
+ratt
+}
+
+STRING 131
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), effect1 (Effect 1)
+{
+ratt
+}
+
+STRING 138
+// Units: h003 (Banner Bearer), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 139
+// Abilities: A000 (Invest on Agriculture), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 140
+// Abilities: A00G (Order to Attack-Move), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 141
+// Abilities: A016 (Demand Gold Income for Truce), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 153
+// Abilities: A009 (Papal Blessing), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 154
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Tip (Tooltip)
+{
+Upgrade Melee Damage |r|cFF959697(Age I)|r
+}
+
+STRING 155
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Tip (Tooltip)
+{
+Upgrade Melee Damage |r|cFF959697(Age II)|r
+}
+
+STRING 156
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Tip (Tooltip)
+{
+Upgrade Melee Damage |r|cFF959697(Age III)|r
+}
+
+STRING 157
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Tip (Tooltip)
+{
+Upgrade Melee Damage |r|cFF959697(Age IV)|r
+}
+
+STRING 158
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Tip (Tooltip)
+{
+Upgrade Melee Damage |r|cFF959697(Age V)|r
+}
+
+STRING 160
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 161
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 162
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 163
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 165
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Tip (Tooltip)
+{
+Age
+}
+
+STRING 169
+// Units: h006 (France), Name (Name)
+{
+France
+}
+
+STRING 170
+// Units: n001 (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 172
+// Units: h008 (Denmark), Name (Name)
+{
+Denmark
+}
+
+STRING 176
+// Abilities: A00F (Stun Dummy), Name (Name)
+{
+Stun Dummy
+}
+
+STRING 177
+// Buffs/Effects: B000 (), Bufftip (Tooltip)
+{
+Waiting for Orders
+}
+
+STRING 178
+// Buffs/Effects: B000 (), Buffubertip (Tooltip - Extended)
+{
+This unit is waiting for orders; it cannot move, attack or cast spells.
+}
+
+STRING 181
+// Units: h008 (Denmark), Tip (Tooltip - Basic)
+{
+Play as Denmark
+}
+
+STRING 187
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Tip (Tooltip)
+{
+Upgrade Melee Armor |r|cFF959697(Age I)|r
+}
+
+STRING 188
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Tip (Tooltip)
+{
+Upgrade Melee Armor |r|cFF959697(Age II)|r
+}
+
+STRING 189
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Tip (Tooltip)
+{
+Upgrade Melee Armor |r|cFF959697(Age III)|r
+}
+
+STRING 190
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Tip (Tooltip)
+{
+Upgrade Melee Armor |r|cFF959697(Age IV)|r
+}
+
+STRING 191
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Tip (Tooltip)
+{
+Upgrade Melee Armor |r|cFF959697(Age V)|r
+}
+
+STRING 202
+// Units: h001 (Knight), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 203
+// Units: h00C (Cataphract), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 204
+// Units: h002 (Feuhornic Gryphon), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 205
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 206
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 207
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), effect1 (Effect 1)
+{
+rhpo
+}
+
+STRING 211
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Name (Name)
+{
+Advance to Age II
+}
+
+STRING 214
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Name (Name)
+{
+Advance to Age III
+}
+
+STRING 218
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Name (Name)
+{
+Advance to Age IV
+}
+
+STRING 219
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Name (Name)
+{
+Advance to Age V
+}
+
+STRING 227
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 228
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 229
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 230
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 242
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 244
+// Abilities: A014 (Repair), Hotkey (Hotkey - Normal)
+{
+F
+}
+
+STRING 245
+// Upgrades: Rhse (Magic Sentry), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 246
+// Upgrades: Rhse (Magic Sentry), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 247
+// Upgrades: Rhse (Magic Sentry), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 249
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Tip (Tooltip)
+{
+Advance to Age III
+}
+
+STRING 250
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Tip (Tooltip)
+{
+Advance to Age IV
+}
+
+STRING 251
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Tip (Tooltip)
+{
+Advance to Age V
+}
+
+STRING 269
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 270
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 271
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 281
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 317
+// Units: h009 (Scotland), Name (Name)
+{
+Scotland
+}
+
+STRING 318
+// Units: h009 (Scotland), Tip (Tooltip - Basic)
+{
+Play as Scotland
+}
+
+STRING 320
+// Units: h00A (Portugal), Name (Name)
+{
+Portugal
+}
+
+STRING 321
+// Units: h00A (Portugal), Tip (Tooltip - Basic)
+{
+Play as Portugal
+}
+
+STRING 323
+// Units: hars (National Academy), Name (Name)
+{
+National Academy
+}
+
+STRING 329
+// Abilities: A015 (Donation to the Church), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 330
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 331
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 332
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 334
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Upgrade Ranged Damage |r|cFF959697(Age I)|r
+}
+
+STRING 335
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Upgrade Ranged Damage |r|cFF959697(Age II)|r
+}
+
+STRING 336
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Upgrade Ranged Damage |r|cFF959697(Age III)|r
+}
+
+STRING 337
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Upgrade Ranged Damage |r|cFF959697(Age IV)|r
+}
+
+STRING 338
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Upgrade Ranged Damage |r|cFF959697(Age V)|r
+}
+
+STRING 344
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFArcher Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Crossbowman Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 345
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFArcher Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Crossbowman Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 346
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFArcher Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Crossbowman Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 347
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFArcher Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Crossbowman Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 348
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFArcher Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Crossbowman Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 349
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), effect1 (Effect 1)
+{
+rhpo
+}
+
+STRING 350
+// Units: o002 (Catapult), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 351
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 352
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 353
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 354
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 355
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Tip (Tooltip)
+{
+Upgrade Ranged Armor |r|cFF959697(Age I)|r
+}
+
+STRING 356
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Tip (Tooltip)
+{
+Upgrade Ranged Armor |r|cFF959697(Age II)|r
+}
+
+STRING 357
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Tip (Tooltip)
+{
+Upgrade Ranged Armor |r|cFF959697(Age III)|r
+}
+
+STRING 358
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Tip (Tooltip)
+{
+Upgrade Ranged Armor |r|cFF959697(Age IV)|r
+}
+
+STRING 359
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Tip (Tooltip)
+{
+Upgrade Ranged Armor |r|cFF959697(Age V)|r
+}
+
+STRING 370
+// Units: h000 (Spearman), Name (Name)
+{
+Spearman
+}
+
+STRING 371
+// Units: o000 (Crossbowman), Name (Name)
+{
+Crossbowman
+}
+
+STRING 372
+// Units: o001 (Archer), Name (Name)
+{
+Archer
+}
+
+STRING 374
+// Units: n000 (Nation Chooser), Name (Name)
+{
+Nation Chooser
+}
+
+STRING 375
+{
+Type: |Cffffcc00Cavalry|R
+}
+
+STRING 376
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF90%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF80%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF200%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF20%|r
+}
+
+STRING 377
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF90%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF80%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF200%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF20%|r
+}
+
+STRING 378
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF90%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF80%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF200%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF20%|r
+}
+
+STRING 381
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF80%|n|r|cFFFFCC00Light: |r|cFFFFFFFF80%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF80%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF150%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF150%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF10%|r
+}
+
+STRING 382
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF90%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF60%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF60%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF10%|r
+}
+
+STRING 383
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF100%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF100%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF50%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF100%|r
+}
+
+STRING 386
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF80%|n|r|cFFFFCC00Light: |r|cFFFFFFFF80%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF80%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF150%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF150%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF10%|r
+}
+
+STRING 387
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF90%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF60%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF60%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF10%|r
+}
+
+STRING 388
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF100%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF100%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF50%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF100%|r
+}
+
+STRING 391
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF80%|n|r|cFFFFCC00Light: |r|cFFFFFFFF80%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF80%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF150%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF150%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF10%|r
+}
+
+STRING 392
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF90%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF60%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF60%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF10%|r
+}
+
+STRING 393
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF100%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF100%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF50%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF100%|r
+}
+
+STRING 394
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF100%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF90%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF90%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF20%|r
+}
+
+STRING 395
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF100%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF90%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF90%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF20%|r
+}
+
+STRING 396
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF100%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF90%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF90%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF20%|r
+}
+
+STRING 397
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF100%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF90%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF90%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF20%|r
+}
+
+STRING 398
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF100%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF90%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF90%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF20%|r
+}
+
+STRING 399
+{
+|cFFFFCC00Unarmored: |r|cFFFFFFFF100%|n|r|cFFFFCC00Light: |r|cFFFFFFFF100%|n|r|cFFFFCC00Medium: |r|cFFFFFFFF100%|n|r|cFFFFCC00Heavy: |r|cFFFFFFFF90%|n|r|cFFFFCC00Cavalry: |r|cFFFFFFFF90%|n|r|cFFFFCC00Fortified: |r|cFFFFFFFF20%|r
+}
+
+STRING 400
+// Units: o002 (Catapult), Name (Name)
+{
+Catapult
+}
+
+STRING 401
+// Units: o002 (Catapult), Tip (Tooltip - Basic)
+{
+Train Catapult
+}
+
+STRING 404
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 410
+{
+Player 12
+}
+
+STRING 415
+// Units: h004 (Mongolia), Name (Name)
+{
+Mongolia
+}
+
+STRING 423
+// Units: h00S (Militia), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 424
+// Upgrades: Rhri (Long Rifles), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 425
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 427
+// Units: H005 (Country), Propernames (Proper Names)
+{
+Country
+}
+
+STRING 429
+{
+ - Each point increases Lumber income by 0.5
+}
+
+STRING 430
+{
+ - Each point increases Gold income by 1.
+}
+
+STRING 431
+{
+ - Each point increases Maximum Manpower by 1
+}
+
+STRING 432
+{
+Players restore 5% of their Max Manpower every turn.
+}
+
+STRING 433
+// Abilities: A00A (Invest on Tax), Tip (Tooltip - Normal)
+{
+Invest on Tax
+}
+
+STRING 434
+// Abilities: A00A (Invest on Tax), Name (Name)
+{
+Invest on Tax
+}
+
+STRING 435
+// Abilities: A00A (Invest on Tax), Hotkey (Hotkey - Normal)
+{
+Z
+}
+
+STRING 436
+// Abilities: A00H (Invest on Production), Tip (Tooltip - Normal)
+{
+Invest on Production
+}
+
+STRING 438
+// Abilities: A00H (Invest on Production), Hotkey (Hotkey - Normal)
+{
+X
+}
+
+STRING 439
+// Abilities: A00I (Invest on Manpower), Tip (Tooltip - Normal)
+{
+Invest on Manpower
+}
+
+STRING 440
+// Abilities: A00I (Invest on Manpower), Name (Name)
+{
+Invest on Manpower
+}
+
+STRING 441
+// Abilities: A00I (Invest on Manpower), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGrants|r|cFFFFCC00 |r|cFF00FF00+1 |r|cFFFFFFFFManpower.|r
+}
+
+STRING 444
+// Abilities: A00H (Invest on Production), Name (Name)
+{
+Invest on Production
+}
+
+STRING 448
+// Abilities: A00J (City State Summon), EditorSuffix (Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 449
+// Abilities: A01W (Spam 1), Name (Name)
+{
+Spam 1
+}
+
+STRING 450
+// Abilities: A00J (City State Summon), Tip (Tooltip - Normal)
+{
+Frost Nova
+}
+
+STRING 451
+// Abilities: A00J (City State Summon), Ubertip (Tooltip - Normal - Extended)
+{
+Blasts enemy units with a wave of frost that deals <ACfn,DataB2> damage to the target, and <ACfn,DataA2> nova damage. Cold damage slows units' movement and attack rate for <ACfn,Dur2> seconds.
+}
+
+STRING 453
+// Upgrades: Rhsb (Sundering Blades), Tip (Tooltip)
+{
+Upgrade Siege Damage |r|cFF959697(Age I)|r
+}
+
+STRING 454
+// Upgrades: Rhsb (Sundering Blades), Tip (Tooltip)
+{
+Upgrade Siege Damage |r|cFF959697(Age II)|r
+}
+
+STRING 455
+// Upgrades: Rhsb (Sundering Blades), Tip (Tooltip)
+{
+Upgrade Siege Damage |r|cFF959697(Age III)|r
+}
+
+STRING 456
+// Upgrades: Rhsb (Sundering Blades), Tip (Tooltip)
+{
+Upgrade Siege Damage |r|cFF959697(Age IV)|r
+}
+
+STRING 457
+// Upgrades: Rhsb (Sundering Blades), Tip (Tooltip)
+{
+Upgrade Siege Damage |r|cFF959697(Age V)|r
+}
+
+STRING 468
+// Upgrades: Rhsb (Sundering Blades), effect1 (Effect 1)
+{
+ratt
+}
+
+STRING 469
+// Upgrades: Rhsb (Sundering Blades), class (Class)
+{
+ranged
+}
+
+STRING 470
+// Units: h018 (Condottiero), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 471
+// Units: h01E (Invest on Colonization), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 472
+// Abilities: A00B (Invest on Science), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 473
+// Abilities: A018 (Demand Food for Truce), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 474
+// Abilities: A01F (Catholic Infrastructure), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 475
+// Upgrades: Rhhb (Storm Hammers), effect1 (Effect 1)
+{
+rhpo
+}
+
+STRING 477
+// Upgrades: Rhhb (Storm Hammers), Tip (Tooltip)
+{
+Upgrade Siege Armor |r|cFF959697(Age II)|r
+}
+
+STRING 478
+// Upgrades: Rhhb (Storm Hammers), Tip (Tooltip)
+{
+Upgrade Siege Armor |r|cFF959697(Age III)|r
+}
+
+STRING 479
+// Upgrades: Rhhb (Storm Hammers), Tip (Tooltip)
+{
+Upgrade Siege Armor |r|cFF959697(Age IV)|r
+}
+
+STRING 480
+// Upgrades: Rhhb (Storm Hammers), Tip (Tooltip)
+{
+Upgrade Siege Armor |r|cFF959697(Age V)|r
+}
+
+STRING 491
+// Units: e000 (Ballista), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 492
+// Upgrades: Rhhb (Storm Hammers), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 493
+// Upgrades: Rhhb (Storm Hammers), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 494
+// Upgrades: Rhhb (Storm Hammers), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 495
+// Upgrades: Rhhb (Storm Hammers), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 496
+// Upgrades: Rhhb (Storm Hammers), class (Class)
+{
+armor
+}
+
+STRING 497
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Name (Name)
+{
+Upgrade Melee Damage
+}
+
+STRING 498
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Name (Name)
+{
+Upgrade Melee Damage
+}
+
+STRING 499
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Name (Name)
+{
+Upgrade Melee Damage
+}
+
+STRING 500
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Name (Name)
+{
+Upgrade Melee Damage
+}
+
+STRING 501
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Name (Name)
+{
+Upgrade Melee Damage
+}
+
+STRING 502
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Name (Name)
+{
+Upgrade Melee Armor
+}
+
+STRING 503
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Name (Name)
+{
+Upgrade Melee Armor
+}
+
+STRING 504
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Name (Name)
+{
+Upgrade Melee Armor
+}
+
+STRING 505
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Name (Name)
+{
+Upgrade Melee Armor
+}
+
+STRING 506
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Name (Name)
+{
+Upgrade Melee Armor
+}
+
+STRING 507
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Upgrade Ranged Damage
+}
+
+STRING 508
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Upgrade Ranged Damage
+}
+
+STRING 509
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Upgrade Ranged Damage
+}
+
+STRING 510
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Upgrade Ranged Damage
+}
+
+STRING 511
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Upgrade Ranged Damage
+}
+
+STRING 512
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Name (Name)
+{
+Upgrade Ranged Armor
+}
+
+STRING 513
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Name (Name)
+{
+Upgrade Ranged Armor
+}
+
+STRING 514
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Name (Name)
+{
+Upgrade Ranged Armor
+}
+
+STRING 515
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Name (Name)
+{
+Upgrade Ranged Armor
+}
+
+STRING 516
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Name (Name)
+{
+Upgrade Ranged Armor
+}
+
+STRING 517
+// Upgrades: Rhsb (Sundering Blades), Name (Name)
+{
+Upgrade Siege Damage
+}
+
+STRING 518
+// Upgrades: Rhsb (Sundering Blades), Name (Name)
+{
+Upgrade Siege Damage
+}
+
+STRING 519
+// Upgrades: Rhsb (Sundering Blades), Name (Name)
+{
+Upgrade Siege Damage
+}
+
+STRING 520
+// Upgrades: Rhsb (Sundering Blades), Name (Name)
+{
+Upgrade Siege Damage
+}
+
+STRING 521
+// Upgrades: Rhsb (Sundering Blades), Name (Name)
+{
+Upgrade Siege Damage
+}
+
+STRING 522
+// Upgrades: Rhhb (Storm Hammers), Name (Name)
+{
+Upgrade Siege Armor
+}
+
+STRING 523
+// Upgrades: Rhhb (Storm Hammers), Name (Name)
+{
+Upgrade Siege Armor
+}
+
+STRING 524
+// Upgrades: Rhhb (Storm Hammers), Name (Name)
+{
+Upgrade Siege Armor
+}
+
+STRING 525
+// Upgrades: Rhhb (Storm Hammers), Name (Name)
+{
+Upgrade Siege Armor
+}
+
+STRING 526
+// Upgrades: Rhhb (Storm Hammers), Name (Name)
+{
+Upgrade Siege Armor
+}
+
+STRING 541
+// Upgrades: Rhan (Animal War Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFKnight Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 542
+// Upgrades: Rhan (Animal War Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFKnight Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 543
+// Upgrades: Rhan (Animal War Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFKnight Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 544
+// Upgrades: Rhan (Animal War Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFKnight Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 545
+// Upgrades: Rhan (Animal War Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFKnight Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 546
+// Upgrades: Rhan (Animal War Training), effect1 (Effect 1)
+{
+rarm
+}
+
+STRING 548
+// Upgrades: Rhan (Animal War Training), Name (Name)
+{
+Steel Barding
+}
+
+STRING 549
+// Upgrades: Rhan (Animal War Training), Name (Name)
+{
+Steel Barding
+}
+
+STRING 550
+// Upgrades: Rhan (Animal War Training), Name (Name)
+{
+Steel Barding
+}
+
+STRING 551
+// Upgrades: Rhan (Animal War Training), Name (Name)
+{
+Steel Barding
+}
+
+STRING 552
+// Upgrades: Rhan (Animal War Training), Name (Name)
+{
+Steel Barding
+}
+
+STRING 558
+// Upgrades: Rhpm (Backpack), Name (Name)
+{
+Animal Husbandry
+}
+
+STRING 559
+// Upgrades: Rhpm (Backpack), Name (Name)
+{
+Animal Husbandry
+}
+
+STRING 560
+// Upgrades: Rhpm (Backpack), Name (Name)
+{
+Animal Husbandry
+}
+
+STRING 561
+// Upgrades: Rhpm (Backpack), Name (Name)
+{
+Animal Husbandry
+}
+
+STRING 562
+// Upgrades: Rhpm (Backpack), Name (Name)
+{
+Animal Husbandry
+}
+
+STRING 573
+// Upgrades: Rhrt (Barrage), Name (Name)
+{
+Mobilization
+}
+
+STRING 574
+// Upgrades: Rhrt (Barrage), Name (Name)
+{
+Mobilization
+}
+
+STRING 575
+// Upgrades: Rhrt (Barrage), Name (Name)
+{
+Mobilization
+}
+
+STRING 576
+// Upgrades: Rhrt (Barrage), Name (Name)
+{
+Mobilization
+}
+
+STRING 577
+// Upgrades: Rhrt (Barrage), Name (Name)
+{
+Mobilization
+}
+
+STRING 593
+// Upgrades: Rhcd (Cloud), Name (Name)
+{
+Tax System
+}
+
+STRING 594
+// Upgrades: Rhcd (Cloud), Name (Name)
+{
+Tax System
+}
+
+STRING 595
+// Upgrades: Rhcd (Cloud), Name (Name)
+{
+Tax System
+}
+
+STRING 596
+// Upgrades: Rhcd (Cloud), Name (Name)
+{
+Tax System
+}
+
+STRING 597
+// Upgrades: Rhcd (Cloud), Name (Name)
+{
+Tax System
+}
+
+STRING 608
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+Lumber Harvesting
+}
+
+STRING 609
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+Lumber Harvesting
+}
+
+STRING 610
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+Lumber Harvesting
+}
+
+STRING 611
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+Lumber Harvesting
+}
+
+STRING 612
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+Lumber Harvesting
+}
+
+STRING 613
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Tip (Tooltip)
+{
+Lumber Harvesting |r|cFF959697(Age I)|r
+}
+
+STRING 614
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Tip (Tooltip)
+{
+Lumber Harvesting |r|cFF959697(Age II)|r
+}
+
+STRING 615
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Tip (Tooltip)
+{
+Lumber Harvesting |r|cFF959697(Age III)|r
+}
+
+STRING 616
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Tip (Tooltip)
+{
+Lumber Harvesting |r|cFF959697(Age IV)|r
+}
+
+STRING 617
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Tip (Tooltip)
+{
+Lumber Harvesting |r|cFF959697(Age V)|r
+}
+
+STRING 627
+// Upgrades: Rhss (Control Magic), Name (Name)
+{
+Marching Drills
+}
+
+STRING 628
+// Upgrades: Rhss (Control Magic), Name (Name)
+{
+Marching Drills
+}
+
+STRING 629
+// Upgrades: Rhss (Control Magic), Name (Name)
+{
+Marching Drills
+}
+
+STRING 630
+// Upgrades: Rhss (Control Magic), Name (Name)
+{
+Marching Drills
+}
+
+STRING 631
+// Upgrades: Rhss (Control Magic), Name (Name)
+{
+Marching Drills
+}
+
+STRING 632
+// Upgrades: Rhss (Control Magic), Tip (Tooltip)
+{
+Marching Drills |r|cFF959697(Age I)|r
+}
+
+STRING 633
+// Upgrades: Rhss (Control Magic), Tip (Tooltip)
+{
+Marching Drills |r|cFF959697(Age II)|r
+}
+
+STRING 634
+// Upgrades: Rhss (Control Magic), Tip (Tooltip)
+{
+Marching Drills |r|cFF959697(Age III)|r
+}
+
+STRING 635
+// Upgrades: Rhss (Control Magic), Tip (Tooltip)
+{
+Marching Drills |r|cFF959697(Age IV)|r
+}
+
+STRING 636
+// Upgrades: Rhss (Control Magic), Tip (Tooltip)
+{
+Marching Drills |r|cFF959697(Age V)|r
+}
+
+STRING 642
+// Upgrades: Rhss (Control Magic), effect1 (Effect 1)
+{
+rmvx
+}
+
+STRING 644
+// Upgrades: Rhde (Defend), Name (Name)
+{
+Town Watch
+}
+
+STRING 645
+// Upgrades: Rhde (Defend), Name (Name)
+{
+Town Watch
+}
+
+STRING 646
+// Upgrades: Rhde (Defend), Name (Name)
+{
+Town Watch
+}
+
+STRING 647
+// Upgrades: Rhde (Defend), Name (Name)
+{
+Town Watch
+}
+
+STRING 648
+// Upgrades: Rhde (Defend), Name (Name)
+{
+Town Watch
+}
+
+STRING 649
+// Upgrades: Rhde (Defend), Tip (Tooltip)
+{
+Town Watch |r|cFF959697(Age I)|r
+}
+
+STRING 650
+// Upgrades: Rhde (Defend), Tip (Tooltip)
+{
+Town Watch |r|cFF959697(Age II)|r
+}
+
+STRING 651
+// Upgrades: Rhde (Defend), Tip (Tooltip)
+{
+Town Watch |r|cFF959697(Age III)|r
+}
+
+STRING 652
+// Upgrades: Rhde (Defend), Tip (Tooltip)
+{
+Town Watch |r|cFF959697(Age IV)|r
+}
+
+STRING 653
+// Upgrades: Rhde (Defend), Tip (Tooltip)
+{
+Town Watch |r|cFF959697(Age V)|r
+}
+
+STRING 659
+// Abilities: A001 (Summon Melee Units), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFSummons all |r|cFFFFCC00melee |r|cFFFFFFFFtroops on the target point.|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 600|n|r|cFF00FFFFCooldown:|r|cFFFFFFFF 10 seconds.|r
+}
+
+STRING 660
+// Abilities: A002 (Summon Ranged Units), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFSummons all |r|cFFFFCC00ranged |r|cFFFFFFFFtroops and |r|cFFFFCC00Generals |r|cFFFFFFFFon the target point.|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 600|n|r|cFF00FFFFCooldown:|r|cFFFFFFFF 10 seconds.|r
+}
+
+STRING 666
+// Units: h007 (Muscovy), Name (Name)
+{
+Muscovy
+}
+
+STRING 669
+// Units: h00B (Ottomans), Name (Name)
+{
+Ottomans
+}
+
+STRING 670
+// Units: h00B (Ottomans), Tip (Tooltip - Basic)
+{
+Play as Ottomans
+}
+
+STRING 672
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Name (Name)
+{
+Coming Soon!
+}
+
+STRING 679
+// Upgrades: SOON (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Tip (Tooltip)
+{
+Coming Soon!
+}
+
+STRING 690
+// Units: h004 (Mongolia), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Tradition:|n|r|cFF00FF00+|n|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|n|r|cFFFFCC00Category: |r|cFFFFFFFFNull|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Null|r
+}
+
+STRING 691
+// Units: h007 (Muscovy), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Tradition:|n|r|cFF00FF00+|n|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|n|r|cFFFFCC00Category: |r|cFFFFFFFFNull|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Null|r
+}
+
+STRING 692
+// Units: h00D (Timurids), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Tradition:|n|r|cFF00FF00+|n|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|n|r|cFFFFCC00Category: |r|cFFFFFFFFNull|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Null|r
+}
+
+STRING 693
+// Abilities: A01G (Attachment: Borzoc), Tip (Tooltip - Normal)
+{
+Byzantium
+}
+
+STRING 696
+// Units: h00D (Timurids), Name (Name)
+{
+Timurids
+}
+
+STRING 697
+// Units: h00D (Timurids), Tip (Tooltip - Basic)
+{
+Play as Timurids
+}
+
+STRING 698
+// Units: h00E (England), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Tradition:|n|r|cFF00FF00+|n|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|r|cFFFFCC00Template:|n|r|cFF00FF00-|n|n|r|cFFFFCC00Category: |r|cFFFFFFFFNull|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Null|r
+}
+
+STRING 700
+// Units: h004 (Mongolia), Tip (Tooltip - Basic)
+{
+Mongolia
+}
+
+STRING 701
+// Units: h007 (Muscovy), Tip (Tooltip - Basic)
+{
+Muscovy
+}
+
+STRING 703
+// Abilities: A02G (Attachment: Borzoc Subject), Tip (Tooltip - Normal)
+{
+Byzantium
+}
+
+STRING 706
+// Units: h00E (England), Name (Name)
+{
+England
+}
+
+STRING 707
+// Units: h00E (England), Tip (Tooltip - Basic)
+{
+England
+}
+
+STRING 709
+// Upgrades: Rhfc (Flak Cannons), Name (Name)
+{
+Pillage
+}
+
+STRING 710
+// Upgrades: Rhfc (Flak Cannons), Name (Name)
+{
+Pillage
+}
+
+STRING 711
+// Upgrades: Rhfc (Flak Cannons), Name (Name)
+{
+Pillage
+}
+
+STRING 712
+// Upgrades: Rhfc (Flak Cannons), Name (Name)
+{
+Pillage
+}
+
+STRING 713
+// Upgrades: Rhfc (Flak Cannons), Name (Name)
+{
+Pillage
+}
+
+STRING 724
+// Upgrades: Rhfc (Flak Cannons), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+10% |r|cFFFFFFFFPillage Gain Modifier|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 725
+// Upgrades: Rhfc (Flak Cannons), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+10% |r|cFFFFFFFFPillage Gain Modifier|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 726
+// Upgrades: Rhfc (Flak Cannons), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+10% |r|cFFFFFFFFPillage Gain Modifier|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 727
+// Upgrades: Rhfc (Flak Cannons), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+10% |r|cFFFFFFFFPillage Gain Modifier|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 728
+// Upgrades: Rhfc (Flak Cannons), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+10% |r|cFFFFFFFFPillage Gain Modifier|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 734
+// Upgrades: Rhfl (Flare), Name (Name)
+{
+Reinforced Gambeson
+}
+
+STRING 735
+// Upgrades: Rhfl (Flare), Name (Name)
+{
+Reinforced Gambeson
+}
+
+STRING 736
+// Upgrades: Rhfl (Flare), Name (Name)
+{
+Reinforced Gambeson
+}
+
+STRING 737
+// Upgrades: Rhfl (Flare), Name (Name)
+{
+Reinforced Gambeson
+}
+
+STRING 738
+// Upgrades: Rhfl (Flare), Name (Name)
+{
+Reinforced Gambeson
+}
+
+STRING 739
+// Upgrades: Rhfl (Flare), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFSpearman Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 740
+// Upgrades: Rhfl (Flare), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFSpearman Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 741
+// Upgrades: Rhfl (Flare), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFSpearman Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 742
+// Upgrades: Rhfl (Flare), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFSpearman Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 743
+// Upgrades: Rhfl (Flare), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFSpearman Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 744
+// Upgrades: Rhfl (Flare), effect1 (Effect 1)
+{
+rarm
+}
+
+STRING 747
+// Units: h003 (Banner Bearer), Ubertip (Tooltip - Extended)
+{
+Banner Bearer is required for many actions.
+}
+
+STRING 748
+// Units: h003 (Banner Bearer), Tip (Tooltip - Basic)
+{
+Revive Banner Bearer
+}
+
+STRING 749
+// Abilities: A00K (Sort: Nation), Name (Name)
+{
+Sort: Nation
+}
+
+STRING 750
+// Abilities: A00B (Invest on Science), Ubertip (Tooltip - Normal - Extended)
+{
+|cFF00FF00+2|r|cFFFFFFFF Science Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 1 Food|r
+}
+
+STRING 754
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 755
+// Upgrades: R005 (Abolish Magic), Name (Name)
+{
+Infantry Attack Speed
+}
+
+STRING 756
+// Upgrades: R005 (Abolish Magic), Tip (Tooltip)
+{
+Infantry Attack Speed
+}
+
+STRING 757
+// Upgrades: R005 (Abolish Magic), Ubertip (Tooltip - Extended)
+{
+Each Level Grants +5%
+}
+
+STRING 758
+// Upgrades: Remk (Marksmanship), effect1 (Effect 1)
+{
+rats
+}
+
+STRING 759
+// Upgrades: R006 (Abolish Magic), Name (Name)
+{
+Siege Damage
+}
+
+STRING 760
+// Upgrades: R006 (Abolish Magic), Tip (Tooltip)
+{
+Siege Damage
+}
+
+STRING 761
+// Upgrades: R006 (Abolish Magic), Ubertip (Tooltip - Extended)
+{
+Each Level Grants +5%
+}
+
+STRING 762
+// Upgrades: R006 (Abolish Magic), effect1 (Effect 1)
+{
+ratx
+}
+
+STRING 763
+// Upgrades: R007 (Abolish Magic), Name (Name)
+{
+Knight HP
+}
+
+STRING 764
+// Upgrades: R007 (Abolish Magic), Tip (Tooltip)
+{
+Knight HP
+}
+
+STRING 765
+// Upgrades: R007 (Abolish Magic), Ubertip (Tooltip - Extended)
+{
+Each Level Grants +5%
+}
+
+STRING 766
+// Upgrades: Rhri (Long Rifles), effect1 (Effect 1)
+{
+rhpo
+}
+
+STRING 767
+// Upgrades: R008 (Abolish Magic), Name (Name)
+{
+Knight Damage
+}
+
+STRING 768
+// Upgrades: R008 (Abolish Magic), Tip (Tooltip)
+{
+Knight Damage
+}
+
+STRING 769
+// Upgrades: R008 (Abolish Magic), Ubertip (Tooltip - Extended)
+{
+Each Level Grants +5%
+}
+
+STRING 770
+// Upgrades: R008 (Abolish Magic), effect1 (Effect 1)
+{
+ratx
+}
+
+STRING 773
+// Units: h00G (France Barracks), Name (Name)
+{
+France Barracks
+}
+
+STRING 774
+// Abilities: A00L (Sort: Barracks), Name (Name)
+{
+Sort: Barracks
+}
+
+STRING 775
+// Abilities: A00M (Sort: Academy), Name (Name)
+{
+Sort: Academy
+}
+
+STRING 776
+// Abilities: A00N (Sort: Blacksmith), Name (Name)
+{
+Sort: Blacksmith
+}
+
+STRING 787
+// Units: h00H (Scotland Barracks), Name (Name)
+{
+Scotland Barracks
+}
+
+STRING 791
+// Abilities: A00O (Armor Reduction), Name (Name)
+{
+Armor Reduction
+}
+
+STRING 793
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), effect1 (Effect 1)
+{
+rhpo
+}
+
+STRING 794
+// Upgrades: R009 (Abolish Magic), Name (Name)
+{
+Siege HP
+}
+
+STRING 795
+// Upgrades: R009 (Abolish Magic), Tip (Tooltip)
+{
+Siege HP
+}
+
+STRING 796
+// Upgrades: R009 (Abolish Magic), Ubertip (Tooltip - Extended)
+{
+Each Level Grants +5%
+}
+
+STRING 797
+// Upgrades: R00A (Abolish Magic), effect1 (Effect 1)
+{
+ratx
+}
+
+STRING 798
+// Upgrades: R00A (Abolish Magic), Name (Name)
+{
+Spearman Damage
+}
+
+STRING 799
+// Upgrades: R00A (Abolish Magic), Tip (Tooltip)
+{
+Spearman Damage
+}
+
+STRING 800
+// Upgrades: R00A (Abolish Magic), Ubertip (Tooltip - Extended)
+{
+Each Level Grants +5%
+}
+
+STRING 801
+// Upgrades: R007 (Abolish Magic), effect1 (Effect 1)
+{
+rhpo
+}
+
+STRING 802
+// Upgrades: R00B (Abolish Magic), Name (Name)
+{
+Spearman HP
+}
+
+STRING 803
+// Upgrades: R00B (Abolish Magic), Tip (Tooltip)
+{
+Spearman HP
+}
+
+STRING 804
+// Upgrades: R00B (Abolish Magic), Ubertip (Tooltip - Extended)
+{
+Each Level Grants +5%
+}
+
+STRING 807
+// Upgrades: R005 (Abolish Magic), effect1 (Effect 1)
+{
+rats
+}
+
+STRING 808
+// Upgrades: R00C (Abolish Magic), Name (Name)
+{
+Knight Attack Speed
+}
+
+STRING 809
+// Upgrades: R00C (Abolish Magic), Tip (Tooltip)
+{
+Infantry Attack Speed
+}
+
+STRING 810
+// Upgrades: R00C (Abolish Magic), Ubertip (Tooltip - Extended)
+{
+Each Level Grants +5%
+}
+
+STRING 811
+// Upgrades: R00C (Abolish Magic), effect1 (Effect 1)
+{
+rats
+}
+
+STRING 812
+// Upgrades: R00D (Abolish Magic), Name (Name)
+{
+Siege Attack Speed
+}
+
+STRING 813
+// Upgrades: R00D (Abolish Magic), Tip (Tooltip)
+{
+Infantry Attack Speed
+}
+
+STRING 814
+// Upgrades: R00D (Abolish Magic), Ubertip (Tooltip - Extended)
+{
+Each Level Grants +5%
+}
+
+STRING 817
+// Abilities: A00P (Sort: Neutral), Name (Name)
+{
+Sort: Neutral
+}
+
+STRING 820
+// Units: e000 (Ballista), Name (Name)
+{
+Ballista
+}
+
+STRING 821
+// Units: e000 (Ballista), Tip (Tooltip - Basic)
+{
+Train Ballista
+}
+
+STRING 824
+// Upgrades: Rhgb (Flying Machine Bombs), Name (Name)
+{
+Native Assimilation
+}
+
+STRING 825
+// Upgrades: Rhgb (Flying Machine Bombs), Name (Name)
+{
+Native Assimilation
+}
+
+STRING 826
+// Upgrades: Rhgb (Flying Machine Bombs), Name (Name)
+{
+Native Assimilation
+}
+
+STRING 827
+// Upgrades: Rhgb (Flying Machine Bombs), Name (Name)
+{
+Native Assimilation
+}
+
+STRING 828
+// Upgrades: Rhgb (Flying Machine Bombs), Name (Name)
+{
+Native Assimilation
+}
+
+STRING 839
+// Upgrades: Rhfs (Fragmentation Shards), Name (Name)
+{
+Shield Block
+}
+
+STRING 840
+// Upgrades: Rhfs (Fragmentation Shards), Name (Name)
+{
+Shield Block
+}
+
+STRING 841
+// Upgrades: Rhfs (Fragmentation Shards), Name (Name)
+{
+Shield Block
+}
+
+STRING 842
+// Upgrades: Rhfs (Fragmentation Shards), Name (Name)
+{
+Shield Block
+}
+
+STRING 843
+// Upgrades: Rhfs (Fragmentation Shards), Name (Name)
+{
+Shield Block
+}
+
+STRING 844
+// Upgrades: Rhfs (Fragmentation Shards), Tip (Tooltip)
+{
+Shield Block |r|cFF959697(Age I)|r
+}
+
+STRING 845
+// Upgrades: Rhfs (Fragmentation Shards), Tip (Tooltip)
+{
+Shield Block |r|cFF959697(Age II)|r
+}
+
+STRING 846
+// Upgrades: Rhfs (Fragmentation Shards), Tip (Tooltip)
+{
+Shield Block |r|cFF959697(Age III)|r
+}
+
+STRING 847
+// Upgrades: Rhfs (Fragmentation Shards), Tip (Tooltip)
+{
+Shield Block |r|cFF959697(Age IV)|r
+}
+
+STRING 848
+// Upgrades: Rhfs (Fragmentation Shards), Tip (Tooltip)
+{
+Shield Block |r|cFF959697(Age V)|r
+}
+
+STRING 849
+// Units: h00J (General), Name (Name)
+{
+General
+}
+
+STRING 850
+// Abilities: A00Q (Trueshot Aura), EditorSuffix (Editor Suffix)
+{
+(General)
+}
+
+STRING 851
+// Upgrades: Rhsb (Sundering Blades), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 852
+// Abilities: A00R (Command Aura), EditorSuffix (Editor Suffix)
+{
+(General)
+}
+
+STRING 853
+// Abilities: A00Q (Trueshot Aura), Tip (Tooltip - Normal)
+{
+Trueshot Aura - [|cffffcc00Level 1|r]
+}
+
+STRING 864
+// Abilities: A00Q (Trueshot Aura), Tip (Tooltip - Normal)
+{
+Trueshot Aura - [|cffffcc00Level 2|r]
+}
+
+STRING 865
+// Abilities: A00Q (Trueshot Aura), Tip (Tooltip - Normal)
+{
+Trueshot Aura - [|cffffcc00Level 3|r]
+}
+
+STRING 866
+// Abilities: A00Q (Trueshot Aura), Tip (Tooltip - Normal)
+{
+Trueshot Aura - [|cffffcc00Level 4|r]
+}
+
+STRING 867
+// Abilities: A00Q (Trueshot Aura), Tip (Tooltip - Normal)
+{
+Trueshot Aura - [|cffffcc00Level 5|r]
+}
+
+STRING 868
+// Abilities: A00Q (Trueshot Aura), Tip (Tooltip - Normal)
+{
+Trueshot Aura - [|cffffcc00Level 6|r]
+}
+
+STRING 869
+// Abilities: A00Q (Trueshot Aura), Tip (Tooltip - Normal)
+{
+Trueshot Aura - [|cffffcc00Level 7|r]
+}
+
+STRING 870
+// Abilities: A00Q (Trueshot Aura), Tip (Tooltip - Normal)
+{
+Trueshot Aura - [|cffffcc00Level 8|r]
+}
+
+STRING 871
+// Abilities: A00Q (Trueshot Aura), Tip (Tooltip - Normal)
+{
+Trueshot Aura - [|cffffcc00Level 9|r]
+}
+
+STRING 872
+// Abilities: A00Q (Trueshot Aura), Tip (Tooltip - Normal)
+{
+Trueshot Aura - [|cffffcc00Level 10|r]
+}
+
+STRING 873
+// Abilities: A00R (Command Aura), Tip (Tooltip - Normal)
+{
+Command Aura - [|cffffcc00Level 1|r]
+}
+
+STRING 874
+// Abilities: A00R (Command Aura), Tip (Tooltip - Normal)
+{
+Command Aura - [|cffffcc00Level 2|r]
+}
+
+STRING 875
+// Abilities: A00R (Command Aura), Tip (Tooltip - Normal)
+{
+Command Aura - [|cffffcc00Level 3|r]
+}
+
+STRING 876
+// Abilities: A00R (Command Aura), Tip (Tooltip - Normal)
+{
+Command Aura - [|cffffcc00Level 4|r]
+}
+
+STRING 877
+// Abilities: A00R (Command Aura), Tip (Tooltip - Normal)
+{
+Command Aura - [|cffffcc00Level 5|r]
+}
+
+STRING 878
+// Abilities: A00R (Command Aura), Tip (Tooltip - Normal)
+{
+Command Aura - [|cffffcc00Level 6|r]
+}
+
+STRING 879
+// Abilities: A00R (Command Aura), Tip (Tooltip - Normal)
+{
+Command Aura - [|cffffcc00Level 7|r]
+}
+
+STRING 880
+// Abilities: A00R (Command Aura), Tip (Tooltip - Normal)
+{
+Command Aura - [|cffffcc00Level 8|r]
+}
+
+STRING 881
+// Abilities: A00R (Command Aura), Tip (Tooltip - Normal)
+{
+Command Aura - [|cffffcc00Level 9|r]
+}
+
+STRING 882
+// Abilities: A00R (Command Aura), Tip (Tooltip - Normal)
+{
+Command Aura - [|cffffcc00Level 10|r]
+}
+
+STRING 893
+// Units: h00J (General), Tip (Tooltip - Basic)
+{
+Train General
+}
+
+STRING 894
+// Abilities: A00S (Critical Strike), EditorSuffix (Editor Suffix)
+{
+(General)
+}
+
+STRING 895
+// Abilities: A00S (Critical Strike), Tip (Tooltip - Normal)
+{
+Critical Strike - [|cffffcc00Level 1|r]
+}
+
+STRING 896
+// Abilities: A00S (Critical Strike), Tip (Tooltip - Normal)
+{
+Critical Strike - [|cffffcc00Level 2|r]
+}
+
+STRING 897
+// Abilities: A00S (Critical Strike), Tip (Tooltip - Normal)
+{
+Critical Strike - [|cffffcc00Level 3|r]
+}
+
+STRING 898
+// Abilities: A00S (Critical Strike), Tip (Tooltip - Normal)
+{
+Critical Strike - [|cffffcc00Level 4|r]
+}
+
+STRING 899
+// Abilities: A00S (Critical Strike), Tip (Tooltip - Normal)
+{
+Critical Strike - [|cffffcc00Level 5|r]
+}
+
+STRING 900
+// Abilities: A00S (Critical Strike), Tip (Tooltip - Normal)
+{
+Critical Strike - [|cffffcc00Level 6|r]
+}
+
+STRING 901
+// Abilities: A00S (Critical Strike), Tip (Tooltip - Normal)
+{
+Critical Strike - [|cffffcc00Level 7|r]
+}
+
+STRING 902
+// Abilities: A00S (Critical Strike), Tip (Tooltip - Normal)
+{
+Critical Strike - [|cffffcc00Level 8|r]
+}
+
+STRING 903
+// Abilities: A00S (Critical Strike), Tip (Tooltip - Normal)
+{
+Critical Strike - [|cffffcc00Level 9|r]
+}
+
+STRING 904
+// Abilities: A00S (Critical Strike), Tip (Tooltip - Normal)
+{
+Critical Strike - [|cffffcc00Level 10|r]
+}
+
+STRING 915
+// Abilities: A00T (Sort: Assimilated), Name (Name)
+{
+Sort: Assimilated
+}
+
+STRING 917
+// Abilities: A00U (Sort: General), Name (Name)
+{
+Sort: General
+}
+
+STRING 921
+// Abilities: A00Q (Trueshot Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00Q,DataA1,%>% bonus damage to their ranged attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 922
+// Abilities: A00Q (Trueshot Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00Q,DataA2,%>% bonus damage to their ranged attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 923
+// Abilities: A00Q (Trueshot Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00Q,DataA3,%>% bonus damage to their ranged attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 924
+// Abilities: A00Q (Trueshot Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00Q,DataA4,%>% bonus damage to their ranged attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 925
+// Abilities: A00Q (Trueshot Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00Q,DataA5,%>% bonus damage to their ranged attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 926
+// Abilities: A00Q (Trueshot Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00Q,DataA6,%>% bonus damage to their ranged attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 927
+// Abilities: A00Q (Trueshot Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00Q,DataA7,%>% bonus damage to their ranged attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 928
+// Abilities: A00Q (Trueshot Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00Q,DataA8,%>% bonus damage to their ranged attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 929
+// Abilities: A00Q (Trueshot Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00Q,DataA9,%>% bonus damage to their ranged attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 930
+// Abilities: A00Q (Trueshot Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00Q,DataA10,%>% bonus damage to their ranged attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 931
+// Abilities: A00R (Command Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00R,DataA1,%>% bonus damage to their attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 932
+// Abilities: A00R (Command Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00R,DataA2,%>% bonus damage to their attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 933
+// Abilities: A00R (Command Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00R,DataA3,%>% bonus damage to their attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 934
+// Abilities: A00R (Command Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00R,DataA4,%>% bonus damage to their attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 935
+// Abilities: A00R (Command Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00R,DataA5,%>% bonus damage to their attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 936
+// Abilities: A00R (Command Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00R,DataA6,%>% bonus damage to their attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 937
+// Abilities: A00R (Command Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00R,DataA7,%>% bonus damage to their attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 938
+// Abilities: A00R (Command Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00R,DataA8,%>% bonus damage to their attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 939
+// Abilities: A00R (Command Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00R,DataA9,%>% bonus damage to their attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 940
+// Abilities: A00R (Command Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <A00R,DataA10,%>% bonus damage to their attacks.|n|n|r|cFFFFCC00Damage Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 941
+// Abilities: A00S (Critical Strike), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGives a <A00S,DataA1>% chance to do <A00S,DataB1> times normal damage on an attack.|n|n|r|cFFFFCC00Chance Scaling:|r|cFFFFFFFF +5%|r
+}
+
+STRING 942
+// Abilities: A00S (Critical Strike), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGives a <A00S,DataA2>% chance to do <A00S,DataB2> times normal damage on an attack.|n|n|r|cFFFFCC00Chance Scaling:|r|cFFFFFFFF +5%|r
+}
+
+STRING 943
+// Abilities: A00S (Critical Strike), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGives a <A00S,DataA3>% chance to do <A00S,DataB3> times normal damage on an attack.|n|n|r|cFFFFCC00Chance Scaling:|r|cFFFFFFFF +5%|r
+}
+
+STRING 944
+// Abilities: A00S (Critical Strike), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGives a <A00S,DataA4>% chance to do <A00S,DataB4> times normal damage on an attack.|n|n|r|cFFFFCC00Chance Scaling:|r|cFFFFFFFF +5%|r
+}
+
+STRING 945
+// Abilities: A00S (Critical Strike), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGives a <A00S,DataA5>% chance to do <A00S,DataB5> times normal damage on an attack.|n|n|r|cFFFFCC00Chance Scaling:|r|cFFFFFFFF +5%|r
+}
+
+STRING 946
+// Abilities: A00S (Critical Strike), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGives a <A00S,DataA6>% chance to do <A00S,DataB6> times normal damage on an attack.|n|n|r|cFFFFCC00Chance Scaling:|r|cFFFFFFFF +5%|r
+}
+
+STRING 947
+// Abilities: A00S (Critical Strike), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGives a <A00S,DataA7>% chance to do <A00S,DataB7> times normal damage on an attack.|n|n|r|cFFFFCC00Chance Scaling:|r|cFFFFFFFF +5%|r
+}
+
+STRING 948
+// Abilities: A00S (Critical Strike), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGives a <A00S,DataA8>% chance to do <A00S,DataB8> times normal damage on an attack.|n|n|r|cFFFFCC00Chance Scaling:|r|cFFFFFFFF +5%|r
+}
+
+STRING 949
+// Abilities: A00S (Critical Strike), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGives a <A00S,DataA9>% chance to do <A00S,DataB9> times normal damage on an attack.|n|n|r|cFFFFCC00Chance Scaling:|r|cFFFFFFFF +5%|r
+}
+
+STRING 950
+// Abilities: A00S (Critical Strike), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGives a <A00S,DataA10>% chance to do <A00S,DataB10> times normal damage on an attack.|n|n|r|cFFFFCC00Chance Scaling:|r|cFFFFFFFF +5%|r
+}
+
+STRING 963
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF General Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 968
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Health|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Health|n|r|cFF00FF00+25%|r|cFFFFFFFF General Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 976
+// Upgrades: Rhde (Defend), effect1 (Effect 1)
+{
+rsig
+}
+
+STRING 977
+// Upgrades: Rhde (Defend), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCountry Sight Radius|n|r|cFF00FF00+10%|r|cFFFFFFFF Banner Bearer Sight Radius|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 978
+// Upgrades: Rhde (Defend), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCountry Sight Radius|n|r|cFF00FF00+10%|r|cFFFFFFFF Banner Bearer Sight Radius|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 979
+// Upgrades: Rhde (Defend), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCountry Sight Radius|n|r|cFF00FF00+10%|r|cFFFFFFFF Banner Bearer Sight Radius|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 980
+// Upgrades: Rhde (Defend), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCountry Sight Radius|n|r|cFF00FF00+10%|r|cFFFFFFFF Banner Bearer Sight Radius|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 981
+// Upgrades: Rhde (Defend), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCountry Sight Radius|n|r|cFF00FF00+10%|r|cFFFFFFFF Banner Bearer Sight Radius|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 983
+// Abilities: A00X (Attrition for Enemies), Name (Name)
+{
+Attrition for Enemies
+}
+
+STRING 984
+// Abilities: A00X (Attrition for Enemies), Tip (Tooltip - Normal)
+{
+Attrition for Enemies
+}
+
+STRING 985
+// Buffs/Effects: B001 (Attrition Animation), EditorName (Name (Editor Only))
+{
+Attrition Animation
+}
+
+STRING 986
+// Upgrades: Rhgb (Flying Machine Bombs), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFCC00 |r|cFFFFFFFFAssimilation Chance|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 987
+// Upgrades: Rhgb (Flying Machine Bombs), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFCC00 |r|cFFFFFFFFAssimilation Chance|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 988
+// Upgrades: Rhgb (Flying Machine Bombs), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFCC00 |r|cFFFFFFFFAssimilation Chance|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 989
+// Upgrades: Rhgb (Flying Machine Bombs), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFCC00 |r|cFFFFFFFFAssimilation Chance|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 990
+// Upgrades: Rhgb (Flying Machine Bombs), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFCC00 |r|cFFFFFFFFAssimilation Chance|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 991
+// Units: h00O (Spearman Company), Name (Name)
+{
+Spearman Company
+}
+
+STRING 992
+// Units: h00O (Spearman Company), Tip (Tooltip - Basic)
+{
+Hire Spearman Company
+}
+
+STRING 997
+// Abilities: A00I (Invest on Manpower), Tip (Tooltip - Normal)
+{
+Invest on Manpower
+}
+
+STRING 998
+// Abilities: A00I (Invest on Manpower), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGrants|r|cFFFFCC00 |r|cFF00FF00+1 |r|cFFFFFFFFManpower.|r
+}
+
+STRING 1017
+// Abilities: A00Y (Attachment: Seperatist Flag), Name (Name)
+{
+Attachment: Seperatist Flag
+}
+
+STRING 1018
+// Abilities: A00Z (Sort: Mercenary), Name (Name)
+{
+Sort: Mercenary
+}
+
+STRING 1020
+// Units: h00M (Knight Company), Name (Name)
+{
+Knight Company
+}
+
+STRING 1021
+// Units: h00M (Knight Company), Tip (Tooltip - Basic)
+{
+Hire Knight Company
+}
+
+STRING 1023
+// Units: h00N (Archer Company), Name (Name)
+{
+Archer Company
+}
+
+STRING 1024
+// Units: h00N (Archer Company), Tip (Tooltip - Basic)
+{
+Hire Archer Company
+}
+
+STRING 1029
+// Units: h00K (Footman Company), Name (Name)
+{
+Footman Company
+}
+
+STRING 1030
+// Units: h00K (Footman Company), Tip (Tooltip - Basic)
+{
+Hire Footman Company
+}
+
+STRING 1048
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Health|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Health|n|r|cFF00FF00+25%|r|cFFFFFFFF General Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 1049
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Health|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Health|n|r|cFF00FF00+25%|r|cFFFFFFFF General Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 1050
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Health|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Health|n|r|cFF00FF00+25%|r|cFFFFFFFF General Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 1051
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Health|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Health|n|r|cFF00FF00+25%|r|cFFFFFFFF General Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 1052
+// Abilities: A010 (Sort: Capital), Name (Name)
+{
+Sort: Capital
+}
+
+STRING 1088
+// Units: h00P (Lithuania), Name (Name)
+{
+Lithuania
+}
+
+STRING 1089
+// Units: h00P (Lithuania), Tip (Tooltip - Basic)
+{
+Play as Lithuania
+}
+
+STRING 1093
+// Units: h006 (France), Tip (Tooltip - Basic)
+{
+Play as France
+}
+
+STRING 1095
+{
+Player 5
+}
+
+STRING 1096
+{
+Player 17
+}
+
+STRING 1097
+{
+Players
+}
+
+STRING 1098
+{
+Computer
+}
+
+STRING 1099
+{
+Spectator
+}
+
+STRING 1100
+// Upgrades: Rhsb (Sundering Blades), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCatapult Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Ballista Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 1101
+// Upgrades: Rhsb (Sundering Blades), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCatapult Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Ballista Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 1102
+// Upgrades: Rhsb (Sundering Blades), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCatapult Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Ballista Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 1103
+// Upgrades: Rhsb (Sundering Blades), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCatapult Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Ballista Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 1104
+// Upgrades: Rhsb (Sundering Blades), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCatapult Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Ballista Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 1105
+// Upgrades: Rhhb (Storm Hammers), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCatapult Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Ballista Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 1106
+// Upgrades: Rhhb (Storm Hammers), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCatapult Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Ballista Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 1107
+// Upgrades: Rhhb (Storm Hammers), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCatapult Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Ballista Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 1108
+// Upgrades: Rhhb (Storm Hammers), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCatapult Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Ballista Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 1109
+// Upgrades: Rhhb (Storm Hammers), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFCatapult Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Ballista Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 1110
+// Upgrades: Rhss (Control Magic), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+30 |r|cFFFFFFFFBanner Bearer Movement Speed|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1111
+// Upgrades: Rhss (Control Magic), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+30 |r|cFFFFFFFFBanner Bearer Movement Speed|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1112
+// Upgrades: Rhss (Control Magic), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+30 |r|cFFFFFFFFBanner Bearer Movement Speed|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1113
+// Upgrades: Rhss (Control Magic), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+30 |r|cFFFFFFFFBanner Bearer Movement Speed|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1114
+// Upgrades: Rhss (Control Magic), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+30 |r|cFFFFFFFFBanner Bearer Movement Speed|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1115
+// Upgrades: Rhri (Long Rifles), Name (Name)
+{
+Upgrade Building Armor
+}
+
+STRING 1116
+// Upgrades: Rhri (Long Rifles), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 1117
+// Upgrades: Rhri (Long Rifles), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 1118
+// Upgrades: Rhri (Long Rifles), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 1121
+// Upgrades: Rhri (Long Rifles), Name (Name)
+{
+Upgrade Building Armor
+}
+
+STRING 1122
+// Upgrades: Rhri (Long Rifles), Name (Name)
+{
+Upgrade Building Armor
+}
+
+STRING 1123
+// Upgrades: Rhri (Long Rifles), Name (Name)
+{
+Upgrade Building Armor
+}
+
+STRING 1124
+// Upgrades: Rhri (Long Rifles), Name (Name)
+{
+Upgrade Building Armor
+}
+
+STRING 1125
+// Upgrades: Rhri (Long Rifles), Tip (Tooltip)
+{
+Upgrade Building Armor |r|cFF959697(Age I)|r
+}
+
+STRING 1126
+// Upgrades: Rhri (Long Rifles), Tip (Tooltip)
+{
+Upgrade Building Armor |r|cFF959697(Age II)|r
+}
+
+STRING 1127
+// Upgrades: Rhri (Long Rifles), Tip (Tooltip)
+{
+Upgrade Building Armor |r|cFF959697(Age III)|r
+}
+
+STRING 1128
+// Upgrades: Rhri (Long Rifles), Tip (Tooltip)
+{
+Upgrade Building Armor |r|cFF959697(Age IV)|r
+}
+
+STRING 1129
+// Upgrades: Rhri (Long Rifles), Tip (Tooltip)
+{
+Upgrade Building Armor |r|cFF959697(Age V)|r
+}
+
+STRING 1135
+// Upgrades: Rhri (Long Rifles), class (Class)
+{
+armor
+}
+
+STRING 1136
+// Upgrades: Rhse (Magic Sentry), Name (Name)
+{
+Upgrade Building Damage
+}
+
+STRING 1137
+// Upgrades: Rhse (Magic Sentry), effect1 (Effect 1)
+{
+ratt
+}
+
+STRING 1138
+// Upgrades: Rhse (Magic Sentry), class (Class)
+{
+ranged
+}
+
+STRING 1139
+// Upgrades: Rhse (Magic Sentry), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 1140
+// Upgrades: Rhse (Magic Sentry), Name (Name)
+{
+Upgrade Building Damage
+}
+
+STRING 1141
+// Upgrades: Rhse (Magic Sentry), Name (Name)
+{
+Upgrade Building Damage
+}
+
+STRING 1142
+// Upgrades: Rhse (Magic Sentry), Name (Name)
+{
+Upgrade Building Damage
+}
+
+STRING 1143
+// Upgrades: Rhse (Magic Sentry), Name (Name)
+{
+Upgrade Building Damage
+}
+
+STRING 1144
+// Upgrades: Rhse (Magic Sentry), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 1148
+// Upgrades: R009 (Abolish Magic), effect1 (Effect 1)
+{
+rhpo
+}
+
+STRING 1149
+// Upgrades: Rhse (Magic Sentry), Tip (Tooltip)
+{
+Upgrade Building Damage |r|cFF959697(Age I)|r
+}
+
+STRING 1150
+// Upgrades: Rhse (Magic Sentry), Tip (Tooltip)
+{
+Upgrade Building Damage |r|cFF959697(Age II)|r
+}
+
+STRING 1151
+// Upgrades: Rhse (Magic Sentry), Tip (Tooltip)
+{
+Upgrade Building Damage |r|cFF959697(Age III)|r
+}
+
+STRING 1152
+// Upgrades: Rhse (Magic Sentry), Tip (Tooltip)
+{
+Upgrade Building Damage |r|cFF959697(Age IV)|r
+}
+
+STRING 1153
+// Upgrades: Rhse (Magic Sentry), Tip (Tooltip)
+{
+Upgrade Building Damage |r|cFF959697(Age V)|r
+}
+
+STRING 1154
+// Abilities: A013 (Order to Move), Name (Name)
+{
+Order to Move
+}
+
+STRING 1162
+// Units: u001 (Infirmary Dummy), Name (Name)
+{
+Infirmary Dummy
+}
+
+STRING 1163
+// Abilities: A012 (Infirmary Regeneration Aura), Name (Name)
+{
+Infirmary Regeneration Aura
+}
+
+STRING 1164
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF General Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 1165
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF General Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 1166
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF General Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 1167
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFFootman Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF Spearman Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFKnight Damage|n|r|cFF00FF00+25%|r|cFFFFFFFF General Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 1169
+// Abilities: A008 (Invest on Defences), Ubertip (Tooltip - Normal - Extended)
+{
+|cFF00FF00+15% |r|cFFFFFFFFTown Hall HP|n|r|cFF00FF00+15% |r|cFFFFFFFFTown Hall Damage|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 1 Food|r
+}
+
+STRING 1170
+// Upgrades: Rhri (Long Rifles), effect2 (Effect 2)
+{
+rarm
+}
+
+STRING 1171
+// Upgrades: Robk (Berserker Upgrade), Name (Name)
+{
+Footman Plating
+}
+
+STRING 1172
+// Upgrades: Robk (Berserker Upgrade), Name (Name)
+{
+Footman Plating
+}
+
+STRING 1173
+// Upgrades: Robk (Berserker Upgrade), Name (Name)
+{
+Footman Plating
+}
+
+STRING 1174
+// Upgrades: Robk (Berserker Upgrade), Name (Name)
+{
+Footman Plating
+}
+
+STRING 1175
+// Upgrades: Robk (Berserker Upgrade), Name (Name)
+{
+Footman Plating
+}
+
+STRING 1181
+// Upgrades: Robk (Berserker Upgrade), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFFootman Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 1182
+// Upgrades: Robk (Berserker Upgrade), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFFootman Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 1183
+// Upgrades: Robk (Berserker Upgrade), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFFootman Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 1184
+// Upgrades: Robk (Berserker Upgrade), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFFootman Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 1185
+// Upgrades: Robk (Berserker Upgrade), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFFootman Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 1188
+// Abilities: A00G (Order to Attack-Move), Name (Name)
+{
+Order to Attack-Move
+}
+
+STRING 1191
+// Abilities: A01M (Toggle Auto Recruit), Hotkey (Hotkey - Normal)
+{
+V
+}
+
+STRING 1192
+// Abilities: A01U (Teleport), Hotkey (Hotkey - Normal)
+{
+V
+}
+
+STRING 1195
+// Abilities: A013 (Order to Move), Tip (Tooltip - Normal)
+{
+Order to Move
+}
+
+STRING 1202
+// Upgrades: Robk (Berserker Upgrade), effect1 (Effect 1)
+{
+rarm
+}
+
+STRING 1203
+// Abilities: A014 (Repair), Tip (Tooltip - Normal)
+{
+Full Repair
+}
+
+STRING 1204
+// Abilities: A014 (Repair), Name (Name)
+{
+Repair
+}
+
+STRING 1207
+// Abilities: A014 (Repair), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFRepairs Country Health to |r|cFF00FF00100%.|n|n|r|cFF00FFFFCooldown:|r|cFFFFFFFF 300 seconds.|r
+}
+
+STRING 1212
+// Units: h00K (Footman Company), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00This Company Provides:|n|r|cFF00FF00x8|r|cFFFFFFFF Footman|n|n|r|cFFFFCC00Multiplied Price:|r|cFFFFFFFF x2|n|n|r|cFF959697"Mercenary Companies don't cost any manpower or food. However, they will cost more gold to hire than normal troops and only fight for you for several minutes."|r
+}
+
+STRING 1213
+// Units: h00M (Knight Company), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00This Company Provides:|n|r|cFF00FF00x8|r|cFFFFFFFF Knight|n|n|r|cFFFFCC00Multiplied Price:|r|cFFFFFFFF x2|n|n|r|cFF959697"Mercenary Companies don't cost any manpower or food. However, they will cost more gold to hire than normal troops and only fight for you for several minutes."|r
+}
+
+STRING 1214
+// Units: h00N (Archer Company), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00This Company Provides:|n|r|cFF00FF00x8|r|cFFFFFFFF Archer|n|n|r|cFFFFCC00Multiplied Price:|r|cFFFFFFFF x2|n|n|r|cFF959697"Mercenary Companies don't cost any manpower or food. However, they will cost more gold to hire than normal troops and only fight for you for several minutes."|r
+}
+
+STRING 1215
+// Units: h00O (Spearman Company), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00This Company Provides:|n|r|cFF00FF00x8|r|cFFFFFFFF Spearman|n|n|r|cFFFFCC00Multiplied Price:|r|cFFFFFFFF x2|n|n|r|cFF959697"Mercenary Companies don't cost any manpower or food. However, they will cost more gold to hire than normal troops and only fight for you for several minutes."|r
+}
+
+STRING 1216
+// Units: h00Q (Qara Qoyunlu), Name (Name)
+{
+Qara Qoyunlu
+}
+
+STRING 1217
+// Units: h00Q (Qara Qoyunlu), Tip (Tooltip - Basic)
+{
+Play as Qara Qoyunlu
+}
+
+STRING 1219
+{
+Player 6
+}
+
+STRING 1224
+// Abilities: A016 (Demand Gold Income for Truce), Tip (Tooltip - Normal)
+{
+Demand Gold Subsidies for Peace Deal
+}
+
+STRING 1240
+// Units: u002 (Truce Timer), Name (Name)
+{
+Truce Timer
+}
+
+STRING 1241
+// Abilities: A016 (Demand Gold Income for Truce), Name (Name)
+{
+Demand Gold Income for Truce
+}
+
+STRING 1242
+// Abilities: A017 (Demand Lumber Income for Truce), Name (Name)
+{
+Demand Lumber Income for Truce
+}
+
+STRING 1243
+// Abilities: A017 (Demand Lumber Income for Truce), Tip (Tooltip - Normal)
+{
+Demand Lumber Subsidies for Peace Deal
+}
+
+STRING 1244
+// Abilities: A017 (Demand Lumber Income for Truce), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFDemand Lumber Income for a Peace Deal.|n|n|r|cFFFFCC00Demand:|n|r|cFF00FF00+2|r|cFFFFCC00 |r|cFFFFFFFFLumber Income|n|n|r|cFFFFCC00Offer:|n|r|cFFFFFFFF36 Months of Truce|n|r|cFFFF0000-2 |r|cFFFFFFFFLumber Income|r
+}
+
+STRING 1245
+// Abilities: A018 (Demand Food for Truce), Name (Name)
+{
+Demand Food for Truce
+}
+
+STRING 1246
+// Abilities: A018 (Demand Food for Truce), Tip (Tooltip - Normal)
+{
+Demand Food Subsidies for Peace Deal
+}
+
+STRING 1247
+// Abilities: A018 (Demand Food for Truce), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFDemand Food for a Peace Deal.|n|n|r|cFFFFCC00Demand:|n|r|cFF00FF00+2 |r|cFFFFFFFFFood|n|r|cFFFFCC00Offer:|n|r|cFFFFFFFF36 Months of Truce|n|r|cFFFF0000-2 |r|cFFFFFFFFFood|r
+}
+
+STRING 1248
+// Abilities: A019 (Offer Alliance), Name (Name)
+{
+Offer Alliance
+}
+
+STRING 1249
+// Abilities: A019 (Offer Alliance), Tip (Tooltip - Normal)
+{
+Offer Alliance
+}
+
+STRING 1250
+// Abilities: A019 (Offer Alliance), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFOffers Alliance to choosen Player. It will use |r|cFFFF00001|r|cFFFFFFFF Diplomatic Relations.|r
+}
+
+STRING 1251
+// Abilities: A019 (Offer Alliance), Hotkey (Hotkey - Normal)
+{
+Z
+}
+
+STRING 1252
+// Abilities: A01A (Dissolve Alliance), Name (Name)
+{
+Dissolve Alliance
+}
+
+STRING 1253
+// Abilities: A01A (Dissolve Alliance), Tip (Tooltip - Normal)
+{
+Dissolve Alliance
+}
+
+STRING 1254
+// Abilities: A01A (Dissolve Alliance), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFDissolves Alliance with choosen Nation. It will free |r|cFF00FF001 |r|cFFFFFFFFDiplomatic Relations.|n|nIt will create|r|cFFFFCC00 12 |r|cFFFFFFFFMonths of Truce between each Nation.|r
+}
+
+STRING 1255
+// Abilities: A01A (Dissolve Alliance), Hotkey (Hotkey - Normal)
+{
+X
+}
+
+STRING 1256
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1257
+// Upgrades: Rhsb (Sundering Blades), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 1271
+// Upgrades: Rhhb (Storm Hammers), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 1272
+// Abilities: A01B (Call to Arms), Tip (Tooltip - Normal)
+{
+Call to Arms
+}
+
+STRING 1273
+// Abilities: A01B (Call to Arms), Name (Name)
+{
+Call to Arms
+}
+
+STRING 1275
+// Upgrades: Rhri (Long Rifles), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 1277
+// Units: h00S (Militia), Name (Name)
+{
+Militia
+}
+
+STRING 1278
+// Units: h00S (Militia), Tip (Tooltip - Basic)
+{
+Militia
+}
+
+STRING 1279
+// Upgrades: Rhsb (Sundering Blades), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 1280
+// Upgrades: Rhri (Long Rifles), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFBuilding Health|n|r|cFF00FF00+2|r|cFFFFFFFF Building Armor|n|r|cFF00FF00+25%|r|cFFFFFFFF Militia Health|n|r|cFF00FF00+2|r|cFFFFFFFF Militia Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 1281
+// Upgrades: Rhri (Long Rifles), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFBuilding Health|n|r|cFF00FF00+2|r|cFFFFFFFF Building Armor|n|r|cFF00FF00+25%|r|cFFFFFFFF Militia Health|n|r|cFF00FF00+2|r|cFFFFFFFF Militia Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 1282
+// Upgrades: Rhri (Long Rifles), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFBuilding Health|n|r|cFF00FF00+2|r|cFFFFFFFF Building Armor|n|r|cFF00FF00+25%|r|cFFFFFFFF Militia Health|n|r|cFF00FF00+2|r|cFFFFFFFF Militia Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 1283
+// Upgrades: Rhri (Long Rifles), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFBuilding Health|n|r|cFF00FF00+2|r|cFFFFFFFF Building Armor|n|r|cFF00FF00+25%|r|cFFFFFFFF Militia Health|n|r|cFF00FF00+2|r|cFFFFFFFF Militia Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 1284
+// Upgrades: Rhri (Long Rifles), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFBuilding Health|n|r|cFF00FF00+2|r|cFFFFFFFF Building Armor|n|r|cFF00FF00+25%|r|cFFFFFFFF Militia Health|n|r|cFF00FF00+2|r|cFFFFFFFF Militia Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 1285
+// Upgrades: Rhse (Magic Sentry), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFBuilding Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFMilitia Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 1286
+// Upgrades: Rhse (Magic Sentry), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFBuilding Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFMilitia Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 1287
+// Upgrades: Rhse (Magic Sentry), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFBuilding Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFMilitia Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 1288
+// Upgrades: Rhse (Magic Sentry), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFBuilding Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFMilitia Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 1289
+// Upgrades: Rhse (Magic Sentry), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFBuilding Damage|n|r|cFF00FF00+25% |r|cFFFFFFFFMilitia Damage|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 1290
+// Upgrades: Rhhb (Storm Hammers), Tip (Tooltip)
+{
+Upgrade Siege Armor |r|cFF959697(Age I)|r
+}
+
+STRING 1291
+// Abilities: A01B (Call to Arms), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFUse 5 Manpower to Summon |r|cFFFFCC001|r|cFFFFFFFF Militia for each of them. Militia lasts |r|cFF00FFFF300|r|cFFFFFFFF seconds.|r
+}
+
+STRING 1292
+// Abilities: A01C (Sort: NotRegroupable), Name (Name)
+{
+Sort: NotRegroupable
+}
+
+STRING 1295
+{
+Player 18
+}
+
+STRING 1298
+// Units: h00T (Diplomacy), Tip (Tooltip - Basic)
+{
+Diplomatic Actions
+}
+
+STRING 1299
+// Units: h00T (Diplomacy), Ubertip (Tooltip - Extended)
+{
+Used to do Diplomacy.
+}
+
+STRING 1300
+// Units: h00R (Remains of a Kingdom), Tip (Tooltip - Basic)
+{
+Diplomatic Actions
+}
+
+STRING 1302
+// Units: h00R (Remains of a Kingdom), Ubertip (Tooltip - Extended)
+{
+Used to do Diplomacy.
+}
+
+STRING 1303
+// Units: h00R (Remains of a Kingdom), Name (Name)
+{
+Remains of a Kingdom
+}
+
+STRING 1305
+// Units: o002 (Catapult), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFLong-range siege weaponry. Effective against units and buildings.|n|n|r|cFFFFCC00Manpower Cost:|r|cFFFFFFFF 3|r
+}
+
+STRING 1322
+// Upgrades: Ropm (Backpack), Name (Name)
+{
+Stone Workers
+}
+
+STRING 1333
+// Upgrades: Ropm (Backpack), effect1 (Effect 1)
+{
+rhpr
+}
+
+STRING 1334
+// Upgrades: Ropm (Backpack), Name (Name)
+{
+Stone Workers
+}
+
+STRING 1335
+// Upgrades: Ropm (Backpack), Name (Name)
+{
+Stone Workers
+}
+
+STRING 1336
+// Upgrades: Ropm (Backpack), Name (Name)
+{
+Stone Workers
+}
+
+STRING 1337
+// Upgrades: Ropm (Backpack), Name (Name)
+{
+Stone Workers
+}
+
+STRING 1338
+// Upgrades: Robs (Brute Strength), Name (Name)
+{
+Crosscut Saw
+}
+
+STRING 1339
+// Upgrades: Robs (Brute Strength), Name (Name)
+{
+Crosscut Saw
+}
+
+STRING 1340
+// Upgrades: Robs (Brute Strength), Name (Name)
+{
+Crosscut Saw
+}
+
+STRING 1341
+// Upgrades: Robs (Brute Strength), Name (Name)
+{
+Crosscut Saw
+}
+
+STRING 1342
+// Upgrades: Robs (Brute Strength), Name (Name)
+{
+Crosscut Saw
+}
+
+STRING 1348
+// Upgrades: Robs (Brute Strength), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5 |r|cFFFFFFFFCountry Production|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1349
+// Upgrades: Robs (Brute Strength), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5 |r|cFFFFFFFFCountry Production|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1350
+// Upgrades: Robs (Brute Strength), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5 |r|cFFFFFFFFCountry Production|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1351
+// Upgrades: Robs (Brute Strength), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5 |r|cFFFFFFFFCountry Production|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1352
+// Upgrades: Robs (Brute Strength), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5 |r|cFFFFFFFFCountry Production|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1353
+// Upgrades: Roen (Ensnare), effect1 (Effect 1)
+{
+rmnr
+}
+
+STRING 1354
+// Upgrades: Roen (Ensnare), Name (Name)
+{
+Infrastructure Systems
+}
+
+STRING 1355
+// Upgrades: Roen (Ensnare), Name (Name)
+{
+Infrastructure Systems
+}
+
+STRING 1356
+// Upgrades: Roen (Ensnare), Name (Name)
+{
+Infrastructure Systems
+}
+
+STRING 1357
+// Upgrades: Roen (Ensnare), Name (Name)
+{
+Infrastructure Systems
+}
+
+STRING 1358
+// Upgrades: Roen (Ensnare), Name (Name)
+{
+Infrastructure Systems
+}
+
+STRING 1364
+// Upgrades: Roen (Ensnare), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+3% |r|cFFFFFFFFDevelopment Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1365
+// Upgrades: Roen (Ensnare), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+3% |r|cFFFFFFFFDevelopment Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1366
+// Upgrades: Roen (Ensnare), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+3% |r|cFFFFFFFFDevelopment Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1367
+// Upgrades: Roen (Ensnare), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+3% |r|cFFFFFFFFDevelopment Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1368
+// Upgrades: Roen (Ensnare), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+3% |r|cFFFFFFFFDevelopment Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1369
+// Upgrades: Remk (Marksmanship), Name (Name)
+{
+Marksmanship
+}
+
+STRING 1370
+// Upgrades: Remk (Marksmanship), Name (Name)
+{
+Marksmanship
+}
+
+STRING 1371
+// Upgrades: Remk (Marksmanship), Name (Name)
+{
+Marksmanship
+}
+
+STRING 1372
+// Upgrades: Remk (Marksmanship), Name (Name)
+{
+Marksmanship
+}
+
+STRING 1373
+// Upgrades: Remk (Marksmanship), Tip (Tooltip)
+{
+Marksmanship |r|cFF959697(Age I)|r
+}
+
+STRING 1374
+// Upgrades: Remk (Marksmanship), Tip (Tooltip)
+{
+Marksmanship |r|cFF959697(Age II)|r
+}
+
+STRING 1375
+// Upgrades: Remk (Marksmanship), Tip (Tooltip)
+{
+Marksmanship |r|cFF959697(Age III)|r
+}
+
+STRING 1376
+// Upgrades: Remk (Marksmanship), Tip (Tooltip)
+{
+Marksmanship |r|cFF959697(Age IV)|r
+}
+
+STRING 1377
+// Upgrades: Remk (Marksmanship), Tip (Tooltip)
+{
+Marksmanship |r|cFF959697(Age V)|r
+}
+
+STRING 1378
+// Upgrades: Remk (Marksmanship), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFFFFF Ranged Infantry Attack Speed|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1379
+// Upgrades: Remk (Marksmanship), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFFFFF Ranged Infantry Attack Speed|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1380
+// Upgrades: Remk (Marksmanship), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFFFFF Ranged Infantry Attack Speed|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1381
+// Upgrades: Remk (Marksmanship), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFFFFF Ranged Infantry Attack Speed|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1382
+// Upgrades: Remk (Marksmanship), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFFFFF Ranged Infantry Attack Speed|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1383
+// Upgrades: R00D (Abolish Magic), effect1 (Effect 1)
+{
+rats
+}
+
+STRING 1384
+// Units: h00U (France National Academy), Name (Name)
+{
+France National Academy
+}
+
+STRING 1385
+// Upgrades: Rovs (Envenomed Spears), Name (Name)
+{
+Chivalry
+}
+
+STRING 1386
+// Upgrades: Rovs (Envenomed Spears), Name (Name)
+{
+Chivalry
+}
+
+STRING 1387
+// Upgrades: Rovs (Envenomed Spears), Name (Name)
+{
+Chivalry
+}
+
+STRING 1388
+// Upgrades: Rovs (Envenomed Spears), Name (Name)
+{
+Chivalry
+}
+
+STRING 1389
+// Upgrades: Rovs (Envenomed Spears), Name (Name)
+{
+Chivalry
+}
+
+STRING 1400
+// Upgrades: Rovs (Envenomed Spears), effect1 (Effect 1)
+{
+rhpr
+}
+
+STRING 1403
+// Units: h00V (Scotland National Academy), Name (Name)
+{
+Scotland National Academy
+}
+
+STRING 1404
+// Units: h00W (Denmark National Academy), Name (Name)
+{
+Denmark National Academy
+}
+
+STRING 1405
+// Units: h00X (Qara Qoyunlu National Academy), Name (Name)
+{
+Qara Qoyunlu National Academy
+}
+
+STRING 1413
+// Abilities: A01E (Attachment: Elkwitz), Tip (Tooltip - Normal)
+{
+Denmark
+}
+
+STRING 1435
+// Units: h00Y (Monk), Name (Name)
+{
+Monk
+}
+
+STRING 1436
+// Units: h00Y (Monk), Tip (Tooltip - Basic)
+{
+Train Monk
+}
+
+STRING 1438
+// Abilities: Ahea (Heal), Tip (Tooltip - Normal)
+{
+Heal
+}
+
+STRING 1439
+// Abilities: Ahea (Heal), Tip (Tooltip - Normal)
+{
+Heal
+}
+
+STRING 1440
+// Abilities: Ahea (Heal), Tip (Tooltip - Normal)
+{
+Heal
+}
+
+STRING 1441
+// Abilities: Ahea (Heal), Tip (Tooltip - Normal)
+{
+Heal
+}
+
+STRING 1442
+// Abilities: Ahea (Heal), Tip (Tooltip - Normal)
+{
+Heal
+}
+
+STRING 1443
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Name (Name)
+{
+Upgrade Monk Power
+}
+
+STRING 1444
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Name (Name)
+{
+Upgrade Monk Power
+}
+
+STRING 1445
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Name (Name)
+{
+Upgrade Monk Power
+}
+
+STRING 1446
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Name (Name)
+{
+Upgrade Monk Power
+}
+
+STRING 1447
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Name (Name)
+{
+Upgrade Monk Power
+}
+
+STRING 1448
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Tip (Tooltip)
+{
+Upgrade Monk Power |r|cFF959697(Age I)|r
+}
+
+STRING 1449
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Tip (Tooltip)
+{
+Upgrade Monk Power |r|cFF959697(Age II)|r
+}
+
+STRING 1450
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Tip (Tooltip)
+{
+Upgrade Monk Power |r|cFF959697(Age III)|r
+}
+
+STRING 1451
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Tip (Tooltip)
+{
+Upgrade Monk Power |r|cFF959697(Age IV)|r
+}
+
+STRING 1452
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Tip (Tooltip)
+{
+Upgrade Monk Power |r|cFF959697(Age V)|r
+}
+
+STRING 1453
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFMonk Heal|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 1454
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFMonk Heal|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 1455
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFMonk Heal|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 1456
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFMonk Heal|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 1457
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFMonk Heal|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 1458
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), effect1 (Effect 1)
+{
+rlev
+}
+
+STRING 1459
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 1460
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 1461
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 1462
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 1463
+// Upgrades: Rhpt (Priest Adept Training,Priest Master Training), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 1464
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), class (Class)
+{
+armor
+}
+
+STRING 1465
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Name (Name)
+{
+Upgrade Monk Armor
+}
+
+STRING 1466
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Name (Name)
+{
+Upgrade Monk Armor
+}
+
+STRING 1467
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Name (Name)
+{
+Upgrade Monk Armor
+}
+
+STRING 1468
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Name (Name)
+{
+Upgrade Monk Armor
+}
+
+STRING 1469
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Name (Name)
+{
+Upgrade Monk Armor
+}
+
+STRING 1470
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Tip (Tooltip)
+{
+Upgrade Monk Power |r|cFF959697(Age I)|r
+}
+
+STRING 1471
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Tip (Tooltip)
+{
+Upgrade Monk Power |r|cFF959697(Age II)|r
+}
+
+STRING 1472
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Tip (Tooltip)
+{
+Upgrade Monk Power |r|cFF959697(Age IV)|r
+}
+
+STRING 1473
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Tip (Tooltip)
+{
+Upgrade Monk Power |r|cFF959697(Age III)|r
+}
+
+STRING 1474
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Tip (Tooltip)
+{
+Upgrade Monk Power |r|cFF959697(Age V)|r
+}
+
+STRING 1475
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25%|r|cFFFFFFFF Monk Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 1476
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25%|r|cFFFFFFFF Monk Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 1477
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25%|r|cFFFFFFFF Monk Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 1478
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25%|r|cFFFFFFFF Monk Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 1479
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25%|r|cFFFFFFFF Monk Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 1480
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Hotkey (Hotkey)
+{
+V
+}
+
+STRING 1481
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Hotkey (Hotkey)
+{
+V
+}
+
+STRING 1482
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Hotkey (Hotkey)
+{
+V
+}
+
+STRING 1483
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Hotkey (Hotkey)
+{
+V
+}
+
+STRING 1484
+// Upgrades: Rhst (Sorceress Adept Training,Sorceress Master Training), Hotkey (Hotkey)
+{
+V
+}
+
+STRING 1485
+// Upgrades: R00B (Abolish Magic), effect1 (Effect 1)
+{
+rhpo
+}
+
+STRING 1486
+// Abilities: A009 (Papal Blessing), Tip (Tooltip - Normal)
+{
+Papal Blessing
+}
+
+STRING 1487
+// Abilities: A009 (Papal Blessing), Name (Name)
+{
+Papal Blessing
+}
+
+STRING 1488
+// Abilities: A009 (Papal Blessing), Ubertip (Tooltip - Normal - Extended)
+{
+|cFF00FF00+10% |r|cFFFFFFFFAll Units Attack Speed|n|n|r|cFF00FFFFDuration:|r|cFFFFFFFF 360 Seconds|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Religious Power|r
+}
+
+STRING 1489
+// Buffs/Effects: B002 (), Bufftip (Tooltip)
+{
+Papal Blessing
+}
+
+STRING 1490
+// Buffs/Effects: B002 (), Buffubertip (Tooltip - Extended)
+{
+This unit is under the effects of Papal Blessing; it has an increased attack speed.
+}
+
+STRING 1492
+// Abilities: A00E (Sort: Religion), Name (Name)
+{
+Sort: Religion
+}
+
+STRING 1493
+// Abilities: S000 (Papal Blessing Aura), Name (Name)
+{
+Papal Blessing Aura
+}
+
+STRING 1495
+// Units: hgra (Catholic Church), Name (Name)
+{
+Catholic Church
+}
+
+STRING 1496
+// Units: u003 (Religion Buff Timer), Name (Name)
+{
+Religion Buff Timer
+}
+
+STRING 1497
+// Abilities: A009 (Papal Blessing), EditorSuffix (Editor Suffix)
+{
+(Catholic Church)
+}
+
+STRING 1498
+// Abilities: A015 (Donation to the Church), Tip (Tooltip - Normal)
+{
+Donation to the Church
+}
+
+STRING 1499
+// Abilities: A015 (Donation to the Church), Name (Name)
+{
+Donation to the Church
+}
+
+STRING 1500
+// Abilities: A015 (Donation to the Church), Ubertip (Tooltip - Normal - Extended)
+{
+|cFF00FF00+20% |r|cFFFFFFFFTax Income Modifier|n|n|r|cFF00FFFFDuration:|r|cFFFFFFFF 360 Seconds|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Religious Power|r
+}
+
+STRING 1501
+// Abilities: A015 (Donation to the Church), EditorSuffix (Editor Suffix)
+{
+(Catholic Church)
+}
+
+STRING 1504
+// Abilities: A01F (Catholic Infrastructure), Ubertip (Tooltip - Normal - Extended)
+{
+|cFF00FF00+10% |r|cFFFFFFFFDevelopment Income|n|n|r|cFF00FFFFDuration:|r|cFFFFFFFF 360 Seconds|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Religious Power|r
+}
+
+STRING 1505
+// Abilities: A01F (Catholic Infrastructure), EditorSuffix (Editor Suffix)
+{
+(Catholic Church)
+}
+
+STRING 1506
+// Upgrades: Rhra (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1507
+// Upgrades: Rhsb (Sundering Blades), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 1511
+// Units: h00Y (Monk), Ubertip (Tooltip - Extended)
+{
+Supporting spellcaster. Can Heal allies and generates Religious Power.
+}
+
+STRING 1521
+// Upgrades: Robf (Burning Oil), Name (Name)
+{
+Attrition for Enemies
+}
+
+STRING 1523
+// Upgrades: Robf (Burning Oil), Name (Name)
+{
+Attrition for Enemies
+}
+
+STRING 1524
+// Upgrades: Robf (Burning Oil), Name (Name)
+{
+Attrition for Enemies
+}
+
+STRING 1525
+// Upgrades: Robf (Burning Oil), Name (Name)
+{
+Attrition for Enemies
+}
+
+STRING 1526
+// Upgrades: Robf (Burning Oil), Name (Name)
+{
+Attrition for Enemies
+}
+
+STRING 1543
+// Upgrades: Rhpm (Backpack), Tip (Tooltip)
+{
+Animal Husbandry |r|cFF959697(Age 1)|r
+}
+
+STRING 1544
+// Upgrades: Rhpm (Backpack), Tip (Tooltip)
+{
+Animal Husbandry |r|cFF959697(Age 2)|r
+}
+
+STRING 1545
+// Upgrades: Rhpm (Backpack), Tip (Tooltip)
+{
+Animal Husbandry |r|cFF959697(Age 3)|r
+}
+
+STRING 1546
+// Upgrades: Rhpm (Backpack), Tip (Tooltip)
+{
+Animal Husbandry |r|cFF959697(Age 4)|r
+}
+
+STRING 1547
+// Upgrades: Rhpm (Backpack), Tip (Tooltip)
+{
+Animal Husbandry |r|cFF959697(Age 5)|r
+}
+
+STRING 1548
+// Upgrades: Robk (Berserker Upgrade), Tip (Tooltip)
+{
+Footman Plating |r|cFF959697(Age 1)|r
+}
+
+STRING 1549
+// Upgrades: Robk (Berserker Upgrade), Tip (Tooltip)
+{
+Footman Plating |r|cFF959697(Age 2)|r
+}
+
+STRING 1550
+// Upgrades: Robk (Berserker Upgrade), Tip (Tooltip)
+{
+Footman Plating |r|cFF959697(Age 3)|r
+}
+
+STRING 1551
+// Upgrades: Robk (Berserker Upgrade), Tip (Tooltip)
+{
+Footman Plating |r|cFF959697(Age 4)|r
+}
+
+STRING 1552
+// Upgrades: Robk (Berserker Upgrade), Tip (Tooltip)
+{
+Footman Plating |r|cFF959697(Age 5)|r
+}
+
+STRING 1553
+// Upgrades: Robs (Brute Strength), Tip (Tooltip)
+{
+Crosscut Saw |r|cFF959697(Age 1)|r
+}
+
+STRING 1554
+// Upgrades: Robs (Brute Strength), Tip (Tooltip)
+{
+Crosscut Saw |r|cFF959697(Age 2)|r
+}
+
+STRING 1555
+// Upgrades: Robs (Brute Strength), Tip (Tooltip)
+{
+Crosscut Saw |r|cFF959697(Age 3)|r
+}
+
+STRING 1556
+// Upgrades: Robs (Brute Strength), Tip (Tooltip)
+{
+Crosscut Saw |r|cFF959697(Age 4)|r
+}
+
+STRING 1557
+// Upgrades: Robs (Brute Strength), Tip (Tooltip)
+{
+Crosscut Saw |r|cFF959697(Age 5)|r
+}
+
+STRING 1558
+// Upgrades: Roen (Ensnare), Tip (Tooltip)
+{
+Infrastructure Systems |r|cFF959697(Age 1)|r
+}
+
+STRING 1559
+// Upgrades: Roen (Ensnare), Tip (Tooltip)
+{
+Infrastructure Systems |r|cFF959697(Age 2)|r
+}
+
+STRING 1560
+// Upgrades: Roen (Ensnare), Tip (Tooltip)
+{
+Infrastructure Systems |r|cFF959697(Age 3)|r
+}
+
+STRING 1561
+// Upgrades: Roen (Ensnare), Tip (Tooltip)
+{
+Infrastructure Systems |r|cFF959697(Age 4)|r
+}
+
+STRING 1562
+// Upgrades: Roen (Ensnare), Tip (Tooltip)
+{
+Infrastructure Systems |r|cFF959697(Age 5)|r
+}
+
+STRING 1563
+// Upgrades: Rovs (Envenomed Spears), Tip (Tooltip)
+{
+Chivalry |r|cFF959697(Age 1)|r
+}
+
+STRING 1564
+// Upgrades: Rovs (Envenomed Spears), Tip (Tooltip)
+{
+Chivalry |r|cFF959697(Age 2)|r
+}
+
+STRING 1565
+// Upgrades: Rovs (Envenomed Spears), Tip (Tooltip)
+{
+Chivalry |r|cFF959697(Age 3)|r
+}
+
+STRING 1566
+// Upgrades: Rovs (Envenomed Spears), Tip (Tooltip)
+{
+Chivalry |r|cFF959697(Age 4)|r
+}
+
+STRING 1567
+// Upgrades: Rovs (Envenomed Spears), Tip (Tooltip)
+{
+Chivalry |r|cFF959697(Age 5)|r
+}
+
+STRING 1568
+// Upgrades: Robf (Burning Oil), Tip (Tooltip)
+{
+Attrition for Enemies |r|cFF959697(Age 1)|r
+}
+
+STRING 1569
+// Upgrades: Robf (Burning Oil), Tip (Tooltip)
+{
+Attrition for Enemies |r|cFF959697(Age 2)|r
+}
+
+STRING 1570
+// Upgrades: Robf (Burning Oil), Tip (Tooltip)
+{
+Attrition for Enemies |r|cFF959697(Age 3)|r
+}
+
+STRING 1571
+// Upgrades: Robf (Burning Oil), Tip (Tooltip)
+{
+Attrition for Enemies |r|cFF959697(Age 4)|r
+}
+
+STRING 1572
+// Upgrades: Robf (Burning Oil), Tip (Tooltip)
+{
+Attrition for Enemies |r|cFF959697(Age 5)|r
+}
+
+STRING 1580
+// Units: h00C (Cataphract), Name (Name)
+{
+Cataphract
+}
+
+STRING 1581
+// Units: h00C (Cataphract), Tip (Tooltip - Basic)
+{
+Train Cataphract
+}
+
+STRING 1583
+// Abilities: A01H (Defender Armor Bonus), EditorSuffix (Editor Suffix)
+{
+(Defender)
+}
+
+STRING 1584
+// Abilities: A01H (Defender Armor Bonus), Name (Name)
+{
+Defender Armor Bonus
+}
+
+STRING 1585
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 1586
+// Buffs/Effects: B003 (), Bufftip (Tooltip)
+{
+Defender Armor Bonus
+}
+
+STRING 1587
+// Buffs/Effects: B003 (), Buffubertip (Tooltip - Extended)
+{
+This unit has increased armor.
+}
+
+STRING 1588
+// Upgrades: R00E (Abolish Magic), effect1 (Effect 1)
+{
+rhpo
+}
+
+STRING 1589
+// Upgrades: R00E (Abolish Magic), Name (Name)
+{
+Building HP
+}
+
+STRING 1590
+// Upgrades: R00E (Abolish Magic), Tip (Tooltip)
+{
+Building HP
+}
+
+STRING 1591
+// Upgrades: R00E (Abolish Magic), Ubertip (Tooltip - Extended)
+{
+Each Level Grants +5%
+}
+
+STRING 1592
+// Units: h011 (Byzantium National Academy), Name (Name)
+{
+Byzantium National Academy
+}
+
+STRING 1593
+// Upgrades: Rolf (Liquid Fire), Name (Name)
+{
+True Faith
+}
+
+STRING 1594
+// Upgrades: Rolf (Liquid Fire), Name (Name)
+{
+True Faith
+}
+
+STRING 1595
+// Upgrades: Rolf (Liquid Fire), Name (Name)
+{
+True Faith
+}
+
+STRING 1596
+// Upgrades: Rolf (Liquid Fire), Name (Name)
+{
+True Faith
+}
+
+STRING 1597
+// Upgrades: Rolf (Liquid Fire), Name (Name)
+{
+True Faith
+}
+
+STRING 1598
+// Upgrades: Rolf (Liquid Fire), Tip (Tooltip)
+{
+True Faith |r|cFF959697(Age 1)|r
+}
+
+STRING 1599
+// Upgrades: Rolf (Liquid Fire), Tip (Tooltip)
+{
+True Faith |r|cFF959697(Age 2)|r
+}
+
+STRING 1600
+// Upgrades: Rolf (Liquid Fire), Tip (Tooltip)
+{
+True Faith |r|cFF959697(Age 3)|r
+}
+
+STRING 1601
+// Upgrades: Rolf (Liquid Fire), Tip (Tooltip)
+{
+True Faith |r|cFF959697(Age 4)|r
+}
+
+STRING 1602
+// Upgrades: Rolf (Liquid Fire), Tip (Tooltip)
+{
+True Faith |r|cFF959697(Age 5)|r
+}
+
+STRING 1603
+// Upgrades: Rolf (Liquid Fire), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFCC00 |r|cFFFFFFFFReligious Power Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1604
+// Upgrades: Rolf (Liquid Fire), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFCC00 |r|cFFFFFFFFReligious Power Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1605
+// Upgrades: Rolf (Liquid Fire), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFCC00 |r|cFFFFFFFFReligious Power Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1606
+// Upgrades: Rolf (Liquid Fire), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFCC00 |r|cFFFFFFFFReligious Power Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1607
+// Upgrades: Rolf (Liquid Fire), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5%|r|cFFFFCC00 |r|cFFFFFFFFReligious Power Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1608
+{
+Player 7
+}
+
+STRING 1609
+// Upgrades: Ropg (Pillage), Name (Name)
+{
+Defenders Armor
+}
+
+STRING 1611
+// Upgrades: Ropg (Pillage), Name (Name)
+{
+Defenders Armor
+}
+
+STRING 1612
+// Upgrades: Ropg (Pillage), Name (Name)
+{
+Defenders Armor
+}
+
+STRING 1613
+// Upgrades: Ropg (Pillage), Name (Name)
+{
+Defenders Armor
+}
+
+STRING 1614
+// Upgrades: Ropg (Pillage), Name (Name)
+{
+Defenders Armor
+}
+
+STRING 1615
+// Upgrades: Ropg (Pillage), Tip (Tooltip)
+{
+Defenders Armor |r|cFF959697(Age 1)|r
+}
+
+STRING 1616
+// Upgrades: Ropg (Pillage), Tip (Tooltip)
+{
+Defenders Armor |r|cFF959697(Age 2)|r
+}
+
+STRING 1617
+// Upgrades: Ropg (Pillage), Tip (Tooltip)
+{
+Defenders Armor |r|cFF959697(Age 3)|r
+}
+
+STRING 1618
+// Upgrades: Ropg (Pillage), Tip (Tooltip)
+{
+Defenders Armor |r|cFF959697(Age 4)|r
+}
+
+STRING 1619
+// Upgrades: Ropg (Pillage), Tip (Tooltip)
+{
+Defenders Armor |r|cFF959697(Age 5)|r
+}
+
+STRING 1620
+// Upgrades: Ropg (Pillage), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+1 |r|cFFFFFFFFDefender Armor Bonus|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1621
+// Upgrades: Ropg (Pillage), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+1 |r|cFFFFFFFFDefender Armor Bonus|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1622
+// Upgrades: Ropg (Pillage), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+1 |r|cFFFFFFFFDefender Armor Bonus|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1623
+// Upgrades: Ropg (Pillage), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+1 |r|cFFFFFFFFDefender Armor Bonus|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1624
+// Upgrades: Ropg (Pillage), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+1 |r|cFFFFFFFFDefender Armor Bonus|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1625
+// Units: h012 (Lithuania National Academy), Name (Name)
+{
+Lithuania National Academy
+}
+
+STRING 1626
+// Upgrades: Rhpm (Backpack), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+4 |r|cFFFFFFFFFood|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 1627
+// Upgrades: Rhpm (Backpack), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+4 |r|cFFFFFFFFFood|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 1628
+// Upgrades: Rhpm (Backpack), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+4 |r|cFFFFFFFFFood|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 1629
+// Upgrades: Rhpm (Backpack), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+4 |r|cFFFFFFFFFood|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 1630
+// Upgrades: Rhpm (Backpack), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+4 |r|cFFFFFFFFFood|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 1635
+// Abilities: A01I (Melee Evasion Chance (25%)), Name (Name)
+{
+Melee Evasion Chance (25%)
+}
+
+STRING 1636
+// Abilities: A01I (Melee Evasion Chance (25%)), Tip (Tooltip - Normal)
+{
+Melee Evasion Chance (25%)
+}
+
+STRING 1639
+// Units: h013 (Pyramid of Cheops), Name (Name)
+{
+Pyramid of Cheops
+}
+
+STRING 1640
+// Units: h013 (Pyramid of Cheops), Tip (Tooltip - Basic)
+{
+Pyramid of Cheops
+}
+
+STRING 1641
+// Units: h013 (Pyramid of Cheops), Ubertip (Tooltip - Extended)
+{
+Wonder
+}
+
+STRING 1642
+// Abilities: A01J (Pyramid of Cheops), Name (Name)
+{
+Pyramid of Cheops
+}
+
+STRING 1643
+// Abilities: A01J (Pyramid of Cheops), EditorSuffix (Editor Suffix)
+{
+(Wonder)
+}
+
+STRING 1644
+// Abilities: A01J (Pyramid of Cheops), Tip (Tooltip - Normal)
+{
+Pyramid of Cheops
+}
+
+STRING 1646
+// Buffs/Effects: B004 (), Bufftip (Tooltip)
+{
+Pyramid of Cheops
+}
+
+STRING 1647
+// Buffs/Effects: B004 (), Buffubertip (Tooltip - Extended)
+{
+This unit is under the effects of Pyramid of Cheops; it has an increased hit point regeneration.
+}
+
+STRING 1648
+// Upgrades: Rovs (Envenomed Spears), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFKnight HP Regen|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1649
+// Upgrades: Rovs (Envenomed Spears), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFKnight HP Regen|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1650
+// Upgrades: Rovs (Envenomed Spears), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFKnight HP Regen|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1651
+// Upgrades: Rovs (Envenomed Spears), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFKnight HP Regen|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1652
+// Upgrades: Rovs (Envenomed Spears), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFKnight HP Regen|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1654
+// Units: h014 (Stonehenge), Name (Name)
+{
+Stonehenge
+}
+
+STRING 1655
+// Units: h014 (Stonehenge), Tip (Tooltip - Basic)
+{
+Stonehenge
+}
+
+STRING 1656
+// Units: h014 (Stonehenge), Ubertip (Tooltip - Extended)
+{
+Wonder
+}
+
+STRING 1657
+// Abilities: A01K (Stonehenge), Name (Name)
+{
+Stonehenge
+}
+
+STRING 1658
+// Abilities: A01K (Stonehenge), Tip (Tooltip - Normal)
+{
+Stonehenge
+}
+
+STRING 1660
+// Abilities: A01K (Stonehenge), EditorSuffix (Editor Suffix)
+{
+(Wonder)
+}
+
+STRING 1661
+// Abilities: A01L (Sort: Wonder), Name (Name)
+{
+Sort: Wonder
+}
+
+STRING 1664
+// Abilities: A01M (Toggle Auto Recruit), Tip (Tooltip - Normal)
+{
+Toggle Auto Recruit
+}
+
+STRING 1665
+// Abilities: A01M (Toggle Auto Recruit), Name (Name)
+{
+Toggle Auto Recruit
+}
+
+STRING 1666
+// Abilities: A01M (Toggle Auto Recruit), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFWhen Auto Recruit is on, new units will be trained and deployed instantly if there are enough resources and manpower.|r
+}
+
+STRING 1669
+// Abilities: A01N (Sort: AI Player), Name (Name)
+{
+Sort: AI Player
+}
+
+STRING 1671
+// Units: H01N (City State), Name (Name)
+{
+City State
+}
+
+STRING 1672
+// Units: H01N (City State), Propernames (Proper Names)
+{
+City State
+}
+
+STRING 1673
+// Abilities: A01O (Reincarnation), EditorSuffix (Editor Suffix)
+{
+(Banner Bearer)
+}
+
+STRING 1674
+{
+Player 19
+}
+
+STRING 1675
+// Units: h015 (Hanging Gardens of Babylon), Name (Name)
+{
+Hanging Gardens of Babylon
+}
+
+STRING 1676
+// Units: h015 (Hanging Gardens of Babylon), Tip (Tooltip - Basic)
+{
+Hanging Gardens of Babylon
+}
+
+STRING 1677
+// Units: h015 (Hanging Gardens of Babylon), Ubertip (Tooltip - Extended)
+{
+Wonder
+}
+
+STRING 1679
+// Abilities: A01P (Hanging Gardens of Babylon), Name (Name)
+{
+Hanging Gardens of Babylon
+}
+
+STRING 1681
+// Abilities: A01P (Hanging Gardens of Babylon), EditorSuffix (Editor Suffix)
+{
+(Wonder)
+}
+
+STRING 1682
+// Upgrades: Rhrt (Barrage), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFMax Manpower|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1683
+// Upgrades: Rhrt (Barrage), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFMax Manpower|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1684
+// Upgrades: Rhrt (Barrage), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFMax Manpower|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1685
+// Upgrades: Rhrt (Barrage), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFMax Manpower|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1686
+// Upgrades: Rhrt (Barrage), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFMax Manpower|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1687
+// Upgrades: Rhcd (Cloud), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFTax Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1688
+// Upgrades: Rhcd (Cloud), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFTax Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1689
+// Upgrades: Rhcd (Cloud), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFTax Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1690
+// Upgrades: Rhcd (Cloud), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFTax Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1691
+// Upgrades: Rhcd (Cloud), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFTax Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1693
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFProduction Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1694
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFProduction Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1695
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFProduction Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1696
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFProduction Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1697
+// Upgrades: Rhlh (Improved Lumber Harvesting,Advanced Lumber Harvesting), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFProduction Income|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1698
+// Units: h006 (France), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00French Revolution:|n|r|cFF00FF00+10% |r|cFFFFFFFFDevelopment Income|n|r|cFFFFCC00French Royal Knights:|n|r|cFFFFFFFFKnight: |r|cFF00FF00+10%|r|cFFFFFFFF Power, |r|cFF00FF00+35% |r|cFFFFFFFFCritical Chance|n|r|cFFFFCC00Elan!:|n|r|cFF00FF00+15% |r|cFFFFFFFFInfantry Attack Speed|n|r|cFFFFCC00Royal French Armory:|n|r|cFF00FF00+10% |r|cFFFFFFFFSiege Damage|n|r|cFFFFCC00Native Assimilation Principles:|n|r|cFF00FF00+25% |r|cFFFFFFFFAssimilation Chance|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 1699
+// Units: h00P (Lithuania), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Magdeburg Laws:|n|r|cFF00FF00+10%|r|cFFFFFFFF Tax Income, |r|cFF00FF00+10% |r|cFFFFFFFFProduction Income|n|r|cFFFFCC00Warlord Dukes:|n|r|cFF00FF00+50% |r|cFFFFFFFFGeneral Stats, |r|cFF00FF00+5 |r|cFFFFFFFFGeneral Skill Level|n|r|cFFFFCC00Lithuanian Renaissance:|n|r|cFF00FF00+10% |r|cFFFFFFFFScience Income|n|r|cFFFFCC00Lithuanian Hussars:|n|r|cFF00FF00+15% |r|cFFFFFFFFKnight Power|n|r|cFFFFCC00Recovering Lithuanians:|n|r|cFF00FF00+15% |r|cFFFFFFFFManpower Recovery Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 1700
+// Units: h008 (Denmark), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00More Taxes:|n|r|cFF00FF00+15%|r|cFFFFFFFF Tax Income|n|r|cFFFFCC00More Lumber:|n|r|cFF00FF00+15%|r|cFFFFFFFF Lumber Income|n|r|cFFFFCC00More Troops are Ready:|n|r|cFF00FF00+10% |r|cFFFFFFFFMax Manpower|n|r|cFFFFCC00More Men on Reserves:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Western Troops:|n|r|cFF00FF00+5% |r|cFFFFFFFFAll Units Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 1701
+// Units: h009 (Scotland), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Rein in the Clans: |n|r|cFF00FF00+20% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Basilikon Doron:|r|cFFFFFFFF |n|r|cFF00FF00+25%|r|cFFFFFFFF General Stats, |r|cFF00FF00+2 |r|cFFFFFFFFGeneral Skill Level|n|r|cFFFFCC00Highlanders:|n|r|cFFFFFFFFSpearman: |r|cFF00FF00+33%|r|cFFFFFFFF Gold Cost, |r|cFF00FF00+10%|r|cFFFFFFFF Power, |r|cFF00FF00+50% |r|cFFFFFFFFRange, |r|cFF00FF00+2 |r|cFFFFFFFFArmor Penetration|n|r|cFFFFCC00Tighten up Royal Revenue:|n|r|cFF00FF00+15% |r|cFFFFFFFFTax Income|n|r|cFFFFCC00Furor Scottica:|n|r|cFF00FF00+20% |r|cFFFFFFFFSiege HP|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 1704
+// Abilities: A01P (Hanging Gardens of Babylon), Tip (Tooltip - Normal)
+{
+Hanging Gardens of Babylon
+}
+
+STRING 1707
+// Units: h016 (Naples), Name (Name)
+{
+Naples
+}
+
+STRING 1708
+// Units: h016 (Naples), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Encourage City Living:|n|r|cFF00FF00+10% |r|cFFFFFFFFDevelopment Income|n|r|cFFFFCC00Crush the Power of the Barons:|n|r|cFF00FF00+15%|r|cFFFFFFFF Infantry Attack Speed|n|r|cFFFFCC00Academia Pontaniana:|n|r|cFF00FF00+10% |r|cFFFFFFFFScience Income|n|r|cFFFFCC00Consolidate the Royal Domain:|n|r|cFF00FF00+15% |r|cFFFFFFFFProduction Income|n|r|cFFFFCC00Ready Neapolitans:|n|r|cFF00FF00+15% |r|cFFFFFFFFMax Manpower, Enables Condottiero.|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 1709
+// Abilities: A01E (Attachment: Elkwitz), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00More Taxes:|n|r|cFF00FF00+15%|r|cFFFFFFFF Tax Income|n|r|cFFFFCC00More Lumber:|n|r|cFF00FF00+15%|r|cFFFFFFFF Lumber Income|n|r|cFFFFCC00More Troops are Ready:|n|r|cFF00FF00+10% |r|cFFFFFFFFMax Manpower|n|r|cFFFFCC00More Men on Reserves:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Western Troops:|n|r|cFF00FF00+5% |r|cFFFFFFFFAll Units Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 1710
+// Units: h016 (Naples), Tip (Tooltip - Basic)
+{
+Play as Naples
+}
+
+STRING 1715
+// Abilities: A011 (Attachment: Borzoc Overlord), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Rein in the Clans: |n|r|cFF00FF00+20% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Basilikon Doron:|r|cFFFFFFFF |n|r|cFF00FF00+25%|r|cFFFFFFFF General Stats, |r|cFF00FF00+2 |r|cFFFFFFFFGeneral Skill Level|n|r|cFFFFCC00Highlanders:|n|r|cFFFFFFFFSpearman: |r|cFF00FF00+33%|r|cFFFFFFFF Gold Cost, |r|cFF00FF00+10%|r|cFFFFFFFF Power, |r|cFF00FF00+50% |r|cFFFFFFFFRange, |r|cFF00FF00+2 |r|cFFFFFFFFArmor Penetration|n|r|cFFFFCC00Tighten up Royal Revenue:|n|r|cFF00FF00+15% |r|cFFFFFFFFTax Income|n|r|cFFFFCC00Furor Scottica:|n|r|cFF00FF00+20% |r|cFFFFFFFFSiege HP|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 1720
+// Units: h017 (Colosseum), Name (Name)
+{
+Colosseum
+}
+
+STRING 1721
+// Units: h017 (Colosseum), Tip (Tooltip - Basic)
+{
+Colosseum
+}
+
+STRING 1722
+// Units: h017 (Colosseum), Ubertip (Tooltip - Extended)
+{
+Wonder
+}
+
+STRING 1723
+// Abilities: A01R (Colosseum), Name (Name)
+{
+Colosseum
+}
+
+STRING 1724
+// Abilities: A01R (Colosseum), Tip (Tooltip - Normal)
+{
+Colosseum
+}
+
+STRING 1726
+// Abilities: A01R (Colosseum), EditorSuffix (Editor Suffix)
+{
+(Wonder)
+}
+
+STRING 1727
+// Units: o000 (Crossbowman), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Damage Type: |r|cFFFFFFFFAnti-Heavy|n|r|cFFFFCC00Armor Type:|r|cFFFFFFFF Light|n|n|r|cFFFFCC00Group: |r|cFFFFFFFFRanged, Infantry|n|n|r|cFFFFCC00Manpower Cost: |r|cFFFFFFFF1|r
+}
+
+STRING 1728
+// Units: h001 (Knight), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Damage Type: |r|cFFFFFFFFNormal|n|r|cFFFFCC00Armor Type:|r|cFFFFFFFF Mounted|n|n|r|cFFFFCC00Group: |r|cFFFFFFFFMelee, Knight|n|n|r|cFFFFCC00Manpower Cost: |r|cFFFFFFFF2|r
+}
+
+STRING 1730
+// Units: h018 (Condottiero), Name (Name)
+{
+Condottiero
+}
+
+STRING 1731
+// Units: h018 (Condottiero), Tip (Tooltip - Basic)
+{
+Train Condottiero
+}
+
+STRING 1732
+// Upgrades: Rhsb (Sundering Blades), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 1733
+// Units: o001 (Archer), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Damage Type: |r|cFFFFFFFFPiercing|n|r|cFFFFCC00Armor Type:|r|cFFFFFFFF Light|n|n|r|cFFFFCC00Group: |r|cFFFFFFFFRanged, Infantry|n|n|r|cFFFFCC00Manpower Cost: |r|cFFFFFFFF1|r
+}
+
+STRING 1734
+// Units: h00C (Cataphract), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Damage Type: |r|cFFFFFFFFNormal|n|r|cFFFFCC00Armor Type:|r|cFFFFFFFF Mounted|n|n|r|cFFFFCC00Group: |r|cFFFFFFFFMelee, Knight|n|n|r|cFFFFCC00Manpower Cost: |r|cFFFFFFFF2|r
+}
+
+STRING 1735
+// Abilities: A00G (Order to Attack-Move), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFOrder your troops to attack-move to target point.|n|n|r|cFF00FFFFCooldown:|r|cFFFFFFFF 3 seconds.|r
+}
+
+STRING 1736
+// Abilities: A013 (Order to Move), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFOrder your troops to move to target point.|n|n|r|cFF00FFFFCooldown:|r|cFFFFFFFF 3 seconds.|r
+}
+
+STRING 1738
+// Abilities: A00G (Order to Attack-Move), Tip (Tooltip - Normal)
+{
+Order to Attack-Move
+}
+
+STRING 1739
+// Abilities: A01S (Sort: Banner), Name (Name)
+{
+Sort: Banner
+}
+
+STRING 1741
+// Abilities: A01T (Slow), EditorSuffix (Editor Suffix)
+{
+(Banner Bearer Hit)
+}
+
+STRING 1742
+{
+Player 8
+}
+
+STRING 1743
+{
+Player 20
+}
+
+STRING 1749
+// Abilities: A01G (Attachment: Borzoc), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Repopulation of the Countryside:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Forts of Roman Empire:|n|r|cFF00FF00+25%|r|cFFFFFFFF Building HP, |r|cFF00FF00+2 |r|cFFFFFFFFDefender Armor Bonus|n|r|cFFFFCC00Restore the Ecumenical Patriarch:|n|r|cFF00FF00+15%|r|cFFFFFFFF Religious Power Income|n|r|cFFFFCC00Defense of Byzantium:|n|r|cFF00FF00+4 |r|cFFFFFFFFAttrition Damage|n|r|cFFFFCC00Cataphract:|n|r|cFFFFFFFFKnight:|r|cFF00FF00 +20% |r|cFFFFFFFFHP,|r|cFF00FF00 +25% |r|cFFFFFFFFMelee Evasion Chance, |r|cFFFF0000-10%|r|cFFFFFFFF Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Orthodox|r
+}
+
+STRING 1758
+// Abilities: A01F (Catholic Infrastructure), Tip (Tooltip - Normal)
+{
+Catholic Infrastructure
+}
+
+STRING 1759
+// Abilities: A01F (Catholic Infrastructure), Name (Name)
+{
+Catholic Infrastructure
+}
+
+STRING 1760
+// Abilities: A02G (Attachment: Borzoc Subject), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Repopulation of the Countryside:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Forts of Roman Empire:|n|r|cFF00FF00+25%|r|cFFFFFFFF Building HP, |r|cFF00FF00+2 |r|cFFFFFFFFDefender Armor Bonus|n|r|cFFFFCC00Restore the Ecumenical Patriarch:|n|r|cFF00FF00+15%|r|cFFFFFFFF Religious Power Income|n|r|cFFFFCC00Defense of Byzantium:|n|r|cFF00FF00+4 |r|cFFFFFFFFAttrition Damage|n|r|cFFFFCC00Cataphract:|n|r|cFFFFFFFFKnight:|r|cFF00FF00 +20% |r|cFFFFFFFFHP,|r|cFF00FF00 +25% |r|cFFFFFFFFMelee Evasion Chance, |r|cFFFF0000-10%|r|cFFFFFFFF Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Orthodox|r
+}
+
+STRING 1761
+// Abilities: A00J (City State Summon), Name (Name)
+{
+City State Summon
+}
+
+STRING 1762
+// Abilities: A01V (Condottiero Buff), Name (Name)
+{
+Condottiero Buff
+}
+
+STRING 1763
+// Abilities: A01W (Spam 1), EditorSuffix (Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 1764
+// Abilities: A01W (Spam 1), Tip (Tooltip - Normal)
+{
+Frost Nova
+}
+
+STRING 1765
+// Abilities: A01W (Spam 1), Ubertip (Tooltip - Normal - Extended)
+{
+Blasts enemy units with a wave of frost that deals <ACfn,DataB2> damage to the target, and <ACfn,DataA2> nova damage. Cold damage slows units' movement and attack rate for <ACfn,Dur2> seconds.
+}
+
+STRING 1766
+// Buffs/Effects: B005 (), Bufftip (Tooltip)
+{
+Condottiero Boost
+}
+
+STRING 1767
+// Buffs/Effects: B005 (), Buffubertip (Tooltip - Extended)
+{
+This unit has Condottiero Boost; its armor increased.
+}
+
+STRING 1769
+// Units: h00S (Militia), Ubertip (Tooltip - Extended)
+{
+This guys has 85% HP and 85% damage of Spearman.
+}
+
+STRING 1770
+// Abilities: S001 (Endurance Aura), EditorSuffix (Editor Suffix)
+{
+(General)
+}
+
+STRING 1771
+// Abilities: S001 (Endurance Aura), Tip (Tooltip - Normal)
+{
+Endurance Aura - [|cffffcc00Level 1|r]
+}
+
+STRING 1772
+// Abilities: S001 (Endurance Aura), Tip (Tooltip - Normal)
+{
+Endurance Aura - [|cffffcc00Level 2|r]
+}
+
+STRING 1773
+// Abilities: S001 (Endurance Aura), Tip (Tooltip - Normal)
+{
+Endurance Aura - [|cffffcc00Level 3|r]
+}
+
+STRING 1774
+// Abilities: S001 (Endurance Aura), Tip (Tooltip - Normal)
+{
+Endurance Aura - [|cffffcc00Level 4|r]
+}
+
+STRING 1775
+// Abilities: S001 (Endurance Aura), Tip (Tooltip - Normal)
+{
+Endurance Aura - [|cffffcc00Level 5|r]
+}
+
+STRING 1776
+// Abilities: S001 (Endurance Aura), Tip (Tooltip - Normal)
+{
+Endurance Aura - [|cffffcc00Level 6|r]
+}
+
+STRING 1777
+// Abilities: S001 (Endurance Aura), Tip (Tooltip - Normal)
+{
+Endurance Aura - [|cffffcc00Level 7|r]
+}
+
+STRING 1778
+// Abilities: S001 (Endurance Aura), Tip (Tooltip - Normal)
+{
+Endurance Aura - [|cffffcc00Level 8|r]
+}
+
+STRING 1779
+// Abilities: S001 (Endurance Aura), Tip (Tooltip - Normal)
+{
+Endurance Aura - [|cffffcc00Level 9|r]
+}
+
+STRING 1780
+// Abilities: S001 (Endurance Aura), Tip (Tooltip - Normal)
+{
+Endurance Aura - [|cffffcc00Level 10|r]
+}
+
+STRING 1781
+// Abilities: S001 (Endurance Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <S001,DataB1,%>% attack speed.|n|n|r|cFFFFCC00Attack Speed Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 1782
+// Abilities: S001 (Endurance Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <S002,DataB2,%>% attack speed.|n|n|r|cFFFFCC00Attack Speed Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 1783
+// Abilities: S001 (Endurance Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <S003,DataB3,%>% attack speed.|n|n|r|cFFFFCC00Attack Speed Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 1784
+// Abilities: S001 (Endurance Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <S004,DataB4,%>% attack speed.|n|n|r|cFFFFCC00Attack Speed Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 1785
+// Abilities: S001 (Endurance Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <S005,DataB5,%>% attack speed.|n|n|r|cFFFFCC00Attack Speed Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 1786
+// Abilities: S001 (Endurance Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <S006,DataB6,%>% attack speed.|n|n|r|cFFFFCC00Attack Speed Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 1787
+// Abilities: S001 (Endurance Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <S007,DataB7,%>% attack speed.|n|n|r|cFFFFCC00Attack Speed Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 1788
+// Abilities: S001 (Endurance Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <S008,DataB8,%>% attack speed.|n|n|r|cFFFFCC00Attack Speed Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 1789
+// Abilities: S001 (Endurance Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <S009,DataB9,%>% attack speed.|n|n|r|cFFFFCC00Attack Speed Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 1790
+// Abilities: S001 (Endurance Aura), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFAn aura that gives nearby friendly units a <S0010,DataB10,%>% attack speed.|n|n|r|cFFFFCC00Attack Speed Scaling: |r|cFFFFFFFF+2%|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 900|r
+}
+
+STRING 1791
+// Units: h018 (Condottiero), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Damage Type: |r|cFFFFFFFFNormal|n|r|cFFFFCC00Armor Type:|r|cFFFFFFFF Heavy|n|n|r|cFFFFCC00Group: |r|cFFFFFFFFMelee, Infantry, Footman|n|n|r|cFFFFCC00Condottiero Boost: |r|cFF00FF00+2 |r|cFFFFFFFFArmor to |r|cFFFFCC003|r|cFFFFFFFF units for |r|cFF00FFFF10|r|cFFFFFFFF seconds.|n|n|r|cFFFFCC00Manpower Cost: |r|cFFFFFFFF1|r
+}
+
+STRING 1792
+// Upgrades: Rhrt (Barrage), Tip (Tooltip)
+{
+Mobilization |r|cFF959697(Age 1)|r
+}
+
+STRING 1793
+// Upgrades: Rhrt (Barrage), Tip (Tooltip)
+{
+Mobilization |r|cFF959697(Age 2)|r
+}
+
+STRING 1794
+// Upgrades: Rhrt (Barrage), Tip (Tooltip)
+{
+Mobilization |r|cFF959697(Age 3)|r
+}
+
+STRING 1795
+// Upgrades: Rhrt (Barrage), Tip (Tooltip)
+{
+Mobilization |r|cFF959697(Age 4)|r
+}
+
+STRING 1796
+// Upgrades: Rhrt (Barrage), Tip (Tooltip)
+{
+Mobilization |r|cFF959697(Age 5)|r
+}
+
+STRING 1797
+// Upgrades: Rhgb (Flying Machine Bombs), Tip (Tooltip)
+{
+Native Assimilation |r|cFF959697(Age 2)|r
+}
+
+STRING 1798
+// Upgrades: Rhgb (Flying Machine Bombs), Tip (Tooltip)
+{
+Native Assimilation |r|cFF959697(Age 3)|r
+}
+
+STRING 1799
+// Upgrades: Rhgb (Flying Machine Bombs), Tip (Tooltip)
+{
+Native Assimilation |r|cFF959697(Age 4)|r
+}
+
+STRING 1800
+// Upgrades: Rhgb (Flying Machine Bombs), Tip (Tooltip)
+{
+Native Assimilation |r|cFF959697(Age 5)|r
+}
+
+STRING 1801
+// Upgrades: Rhgb (Flying Machine Bombs), Tip (Tooltip)
+{
+Native Assimilation |r|cFF959697(Age 1)|r
+}
+
+STRING 1802
+// Upgrades: Robf (Burning Oil), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+1.5|r|cFFFFFFFF Attrition Damage|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1803
+// Upgrades: Robf (Burning Oil), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+1.5|r|cFFFFFFFF Attrition Damage|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1804
+// Upgrades: Robf (Burning Oil), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+1.5|r|cFFFFFFFF Attrition Damage|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1805
+// Upgrades: Robf (Burning Oil), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+1.5|r|cFFFFFFFF Attrition Damage|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1806
+// Upgrades: Robf (Burning Oil), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+1.5|r|cFFFFFFFF Attrition Damage|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1807
+// Units: h000 (Spearman), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Damage Type: |r|cFFFFFFFFSpear|n|r|cFFFFCC00Armor Type:|r|cFFFFFFFF Medium|n|n|r|cFFFFCC00Group: |r|cFFFFFFFFMelee, Infantry|n|n|r|cFFFFCC00Manpower Cost: |r|cFFFFFFFF1|r
+}
+
+STRING 1809
+// Upgrades: Ropm (Backpack), Tip (Tooltip)
+{
+Stone Workers |r|cFF959697(Age 1)|r
+}
+
+STRING 1810
+// Upgrades: Ropm (Backpack), Tip (Tooltip)
+{
+Stone Workers |r|cFF959697(Age 2)|r
+}
+
+STRING 1811
+// Upgrades: Ropm (Backpack), Tip (Tooltip)
+{
+Stone Workers |r|cFF959697(Age 3)|r
+}
+
+STRING 1812
+// Upgrades: Ropm (Backpack), Tip (Tooltip)
+{
+Stone Workers |r|cFF959697(Age 4)|r
+}
+
+STRING 1813
+// Upgrades: Ropm (Backpack), Tip (Tooltip)
+{
+Stone Workers |r|cFF959697(Age 5)|r
+}
+
+STRING 1814
+// Upgrades: Ropm (Backpack), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+3|r|cFFFFFFFF Building HP Regeneration|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1815
+// Upgrades: Ropm (Backpack), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+3|r|cFFFFFFFF Building HP Regeneration|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1816
+// Upgrades: Ropm (Backpack), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+3|r|cFFFFFFFF Building HP Regeneration|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1817
+// Upgrades: Ropm (Backpack), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+3|r|cFFFFFFFF Building HP Regeneration|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1818
+// Upgrades: Ropm (Backpack), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+3|r|cFFFFFFFF Building HP Regeneration|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1819
+// Upgrades: Rhcd (Cloud), Tip (Tooltip)
+{
+Tax System |r|cFF959697(Age 1)|r
+}
+
+STRING 1820
+// Upgrades: Rhcd (Cloud), Tip (Tooltip)
+{
+Tax System |r|cFF959697(Age 2)|r
+}
+
+STRING 1821
+// Upgrades: Rhcd (Cloud), Tip (Tooltip)
+{
+Tax System |r|cFF959697(Age 3)|r
+}
+
+STRING 1822
+// Upgrades: Rhcd (Cloud), Tip (Tooltip)
+{
+Tax System |r|cFF959697(Age 4)|r
+}
+
+STRING 1823
+// Upgrades: Rhcd (Cloud), Tip (Tooltip)
+{
+Tax System |r|cFF959697(Age 5)|r
+}
+
+STRING 1824
+// Abilities: A01U (Teleport), Name (Name)
+{
+Teleport
+}
+
+STRING 1825
+// Abilities: A01U (Teleport), Tip (Tooltip - Normal)
+{
+Teleport
+}
+
+STRING 1826
+// Abilities: A01U (Teleport), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFTeleports the |r|cFFFFCC00Banner Bearer |r|cFFFFFFFFto the targeted allied Town Hall and regroups all nearby troops.|n|r|cFFFFCC00Range:|r|cFFFFFFFF Infinite|n|r|cFF00FFFFCooldown:|r|cFFFFFFFF 180 seconds.|r
+}
+
+STRING 1829
+// Abilities: A007 (Regroup), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFRegroups all nearby troops back to Barracks.|n|n|r|cFFFFCC00Range:|r|cFFFFFFFF 2000|n|r|cFF00FFFFCooldown:|r|cFFFFFFFF 45 seconds.|r
+}
+
+STRING 1838
+// Units: e000 (Ballista), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFLong-range siege weaponry that can only attack other siege units and buildings. Deals less damage to buildings.|n|n|r|cFFFFCC00Manpower Cost:|r|cFFFFFFFF 3|r
+}
+
+STRING 1839
+// Abilities: A00C (Catholic), Name (Name)
+{
+Catholic
+}
+
+STRING 1842
+// Abilities: A00C (Catholic), EditorSuffix (Editor Suffix)
+{
+(Religion)
+}
+
+STRING 1843
+// Abilities: A00C (Catholic), Tip (Tooltip - Normal)
+{
+Catholic
+}
+
+STRING 1844
+// Abilities: A00C (Catholic), Ubertip (Tooltip - Normal - Extended)
+{
+This nation is Catholic.
+}
+
+STRING 1845
+// Abilities: A01X (Orthodox), Name (Name)
+{
+Orthodox
+}
+
+STRING 1846
+// Abilities: A01X (Orthodox), Tip (Tooltip - Normal)
+{
+Orthodox
+}
+
+STRING 1848
+// Abilities: A01X (Orthodox), EditorSuffix (Editor Suffix)
+{
+(Religion)
+}
+
+STRING 1849
+// Units: h01A (Wheat Field), Name (Name)
+{
+Wheat Field
+}
+
+STRING 1850
+// Units: h01A (Wheat Field), Tip (Tooltip - Basic)
+{
+Wheat Field
+}
+
+STRING 1852
+// Abilities: A01X (Orthodox), Ubertip (Tooltip - Normal - Extended)
+{
+This nation is Orthodox. For every 1 Religious Power Income, you get +1% Tax, Science and Manpower Income.
+}
+
+STRING 1853
+// Units: h01B (Orthodox Church), Name (Name)
+{
+Orthodox Church
+}
+
+STRING 1854
+// Units: h01C (Bibliotheca Corviniana), Name (Name)
+{
+Bibliotheca Corviniana
+}
+
+STRING 1855
+// Units: h01C (Bibliotheca Corviniana), Tip (Tooltip - Basic)
+{
+Bibliotheca Corviniana
+}
+
+STRING 1856
+// Units: h01C (Bibliotheca Corviniana), Ubertip (Tooltip - Extended)
+{
+Wonder
+}
+
+STRING 1857
+// Abilities: A01Y (Bibliotheca Corviniana), Name (Name)
+{
+Bibliotheca Corviniana
+}
+
+STRING 1858
+// Abilities: A01Y (Bibliotheca Corviniana), Tip (Tooltip - Normal)
+{
+Bibliotheca Corviniana
+}
+
+STRING 1860
+// Abilities: A01Y (Bibliotheca Corviniana), EditorSuffix (Editor Suffix)
+{
+(Wonder)
+}
+
+STRING 1861
+// Units: h01D (Naples National Academy), Name (Name)
+{
+Naples National Academy
+}
+
+STRING 1862
+// Abilities: A01P (Hanging Gardens of Babylon), Ubertip (Tooltip - Normal - Extended)
+{
+|cFF00FF00+10%|r|cFFFFFFFF Production Income|n|r|cFF00FF00+5%|r|cFFFFFFFF Development Income|n|n|r|cFFFFCC00History:|n|r|cFF959697The Hanging Gardens of Babylon were one of the Seven Wonders of the Ancient World listed by Hellenic culture. They were described as a remarkable feat of engineering with an ascending series of tiered gardens containing a wide variety of trees, shrubs, and vines, resembling a large green mountain constructed of mud bricks. It was said to have been built in the ancient city of Babylon, near present-day Hillah, Babil province, in Iraq.|r
+}
+
+STRING 1863
+// Abilities: A01Y (Bibliotheca Corviniana), Ubertip (Tooltip - Normal - Extended)
+{
+|cFF00FF00+10%|r|cFFFFFFFF Science Income|n|n|r|cFFFFCC00History:|n|r|cFF959697Bibliotheca Corviniana was one of the most renowned libraries of the Renaissance world, established by Matthias Corvinus, King of Hungary, in Buda Castle between 1458 and 1490. The books were stolen and taken to Istanbul after the Hungarian defeat by the Ottomans in the Battle of Mohács in 1526.|r
+}
+
+STRING 1864
+// Abilities: A01J (Pyramid of Cheops), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGrants |r|cFF00FF00+2 HP Regen|r|cFFFFFFFF to all allied units.|n|n|r|cFFFFCC00History:|n|r|cFF959697The Great Pyramid of Cheops is the largest Egyptian pyramid and served as the tomb of pharaoh Khufu, who ruled during the Fourth Dynasty of the Old Kingdom. Built in the early 26th century BC, over a period of about 27 years, the pyramid is the oldest of the Seven Wonders of the Ancient World, and the only wonder that has remained largely intact. It is situated at the northern end of the line of the three pyramids at Giza.|r
+}
+
+STRING 1865
+// Abilities: A01K (Stonehenge), Ubertip (Tooltip - Normal - Extended)
+{
+|cFF00FF00+15%|r|cFFFFFFFF Religious Power Income|n|n|r|cFFFFCC00History:|n|r|cFF959697Stonehenge is a prehistoric monument on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. Archaeologists believe that Stonehenge was constructed in several phases from around 3100 BC to 1600 BC, with the circle of large sarsen stones placed between 2600 BC and 2400 BC. The surrounding circular earth bank and ditch, which constitute the earliest phase of the monument, have been dated to about 3100 BC.|r
+}
+
+STRING 1866
+// Abilities: A01R (Colosseum), Ubertip (Tooltip - Normal - Extended)
+{
+|cFF00FF00+15%|r|cFFFFFFFF Max Manpower|n|n|r|cFFFFCC00History:|n|r|cFF959697The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world, despite its age.|r
+}
+
+STRING 1867
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFArcher Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Crossbowman Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Monk Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 1868
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFArcher Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Crossbowman Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Monk Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 1869
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFArcher Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Crossbowman Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Monk Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 1870
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFArcher Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Crossbowman Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Monk Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 1871
+// Upgrades: Rhla (Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+25% |r|cFFFFFFFFArcher Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Crossbowman Health|n|r|cFF00FF00+25%|r|cFFFFFFFF Monk Health|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 1872
+// Upgrades: Rhfl (Flare), Tip (Tooltip)
+{
+Reinforced Gambeson |r|cFF959697(Age 1)|r
+}
+
+STRING 1873
+// Upgrades: Rhfl (Flare), Tip (Tooltip)
+{
+Reinforced Gambeson |r|cFF959697(Age 2)|r
+}
+
+STRING 1874
+// Upgrades: Rhfl (Flare), Tip (Tooltip)
+{
+Reinforced Gambeson |r|cFF959697(Age 3)|r
+}
+
+STRING 1875
+// Upgrades: Rhfl (Flare), Tip (Tooltip)
+{
+Reinforced Gambeson |r|cFF959697(Age 4)|r
+}
+
+STRING 1876
+// Upgrades: Rhfl (Flare), Tip (Tooltip)
+{
+Reinforced Gambeson |r|cFF959697(Age 5)|r
+}
+
+STRING 1877
+// Upgrades: Rows (Pulverize), Name (Name)
+{
+Studded Leather Armor
+}
+
+STRING 1878
+// Upgrades: Rows (Pulverize), effect1 (Effect 1)
+{
+rarm
+}
+
+STRING 1879
+// Upgrades: Rows (Pulverize), Name (Name)
+{
+Studded Leather Armor
+}
+
+STRING 1880
+// Upgrades: Rows (Pulverize), Name (Name)
+{
+Studded Leather Armor
+}
+
+STRING 1881
+// Upgrades: Rows (Pulverize), Name (Name)
+{
+Studded Leather Armor
+}
+
+STRING 1882
+// Upgrades: Rows (Pulverize), Name (Name)
+{
+Studded Leather Armor
+}
+
+STRING 1883
+// Upgrades: Rows (Pulverize), Tip (Tooltip)
+{
+|cFFFFFFFFStudded Leather Armor|r|cFF00FF00 |r|cFF959697(Age 1)|r
+}
+
+STRING 1884
+// Upgrades: Rows (Pulverize), Tip (Tooltip)
+{
+|cFFFFFFFFStudded Leather Armor|r|cFF00FF00 |r|cFF959697(Age 2)|r
+}
+
+STRING 1885
+// Upgrades: Rows (Pulverize), Tip (Tooltip)
+{
+|cFFFFFFFFStudded Leather Armor|r|cFF00FF00 |r|cFF959697(Age 3)|r
+}
+
+STRING 1886
+// Upgrades: Rows (Pulverize), Tip (Tooltip)
+{
+|cFFFFFFFFStudded Leather Armor|r|cFF00FF00 |r|cFF959697(Age 4)|r
+}
+
+STRING 1887
+// Upgrades: Rows (Pulverize), Tip (Tooltip)
+{
+|cFFFFFFFFStudded Leather Armor|r|cFF00FF00 |r|cFF959697(Age 5)|r
+}
+
+STRING 1888
+// Upgrades: Rows (Pulverize), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFRanged Infantry Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 1889
+// Upgrades: Rows (Pulverize), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFRanged Infantry Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 1890
+// Upgrades: Rows (Pulverize), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFRanged Infantry Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 1891
+// Upgrades: Rows (Pulverize), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFRanged Infantry Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 1892
+// Upgrades: Rows (Pulverize), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+2 |r|cFFFFFFFFRanged Infantry Armor|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 1893
+// Units: h00T (Diplomacy), Name (Name)
+{
+Diplomacy
+}
+
+STRING 1895
+// Units: h01E (Invest on Colonization), Name (Name)
+{
+Invest on Colonization
+}
+
+STRING 1896
+// Units: h01E (Invest on Colonization), Tip (Tooltip - Basic)
+{
+Invest on Colonization
+}
+
+STRING 1899
+// Units: h01E (Invest on Colonization), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFSpend gold to generate |r|cFF00FFFF100|r|cFFFFFFFF Mana on this Trading Company. Restored Mana scales with Colonization Efficiency. If it reaches Max Mana, Trading Company levels up.|r
+}
+
+STRING 1900
+// Abilities: A01Z (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1902
+// Abilities: A01Z (Wheat), Ubertip (Tooltip - Normal - Extended)
+{
+This nation is Catholic.
+}
+
+STRING 1903
+// Abilities: A01Z (Wheat), EditorSuffix (Editor Suffix)
+{
+(Religion)
+}
+
+STRING 1904
+// Abilities: A01Z (Wheat), Tip (Tooltip - Normal)
+{
+|cFFFFCC00Production Type:|r|cFFFFFFFF Wheat|r
+}
+
+STRING 1905
+// Abilities: A021 (Production: Wheat), Name (Name)
+{
+Production: Wheat
+}
+
+STRING 1907
+// Abilities: A021 (Production: Wheat), Tip (Tooltip - Normal)
+{
+|cFFFFCC00Production: |r|cFFFFFFFFWheat|r
+}
+
+STRING 1909
+// Buffs/Effects: B006 (), Bufftip (Tooltip)
+{
+|cFFFFCC00Production: |r|cFFFFFFFFWheat|r
+}
+
+STRING 1910
+// Buffs/Effects: B006 (), Buffubertip (Tooltip - Extended)
+{
+This unit is under the effects of Wheat Production; it has an increased hit point regeneration.
+}
+
+STRING 1912
+// Abilities: A020 (Sort: Trade Company), Name (Name)
+{
+Sort: Trade Company
+}
+
+STRING 1913
+// Units: h01F (Paper Mill), Name (Name)
+{
+Paper Mill
+}
+
+STRING 1914
+// Units: h01F (Paper Mill), Tip (Tooltip - Basic)
+{
+Paper Mill
+}
+
+STRING 1915
+// Abilities: A022 (Production: Paper), Name (Name)
+{
+Production: Paper
+}
+
+STRING 1916
+// Abilities: A022 (Production: Paper), Tip (Tooltip - Normal)
+{
+|cFFFFCC00Production: |r|cFFFFFFFFPaper|r
+}
+
+STRING 1918
+// Units: h00Q (Qara Qoyunlu), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00The Black Sheep:|n|r|cFF00FF00+25% |r|cFFFFFFFFMax Manpower|n|r|cFFFFCC00Dynamic Warfare: |n|r|cFF00FF00+10% |r|cFFFFFFFFGeneral Stats, |r|cFF00FF00+4 |r|cFFFFFFFFGeneral Skill Level|n|r|cFFFFCC00Irrigation and Public Works:|n|r|cFF00FF00+5% |r|cFFFFFFFFTax Income,|r|cFF00FF00 +5% |r|cFFFFFFFFProduction Income|n|r|cFFFFCC00Black Sheep Turkomans:|n|r|cFF00FF00+15% |r|cFFFFFFFFKnight Power|n|r|cFFFFCC00Governor of Azerbaijan:|n|r|cFF00FF00+5%|r|cFFFFFFFF Development Income, |r|cFF00FF00+5 |r|cFFFFFFFFFood|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Shia|r
+}
+
+STRING 1921
+// Units: h019 (Italian Minor Barracks), Name (Name)
+{
+Italian Minor Barracks
+}
+
+STRING 1923
+// Units: h01G (Florence), Name (Name)
+{
+Florence
+}
+
+STRING 1925
+// Units: h01G (Florence), Tip (Tooltip - Basic)
+{
+Play as Florence
+}
+
+STRING 1928
+{
+Player 9
+}
+
+STRING 1929
+// Upgrades: Rorb (Reinforced Defenses), Name (Name)
+{
+Great Taxation
+}
+
+STRING 1930
+// Upgrades: Rorb (Reinforced Defenses), Tip (Tooltip)
+{
+Great Taxation |r|cFF959697(Age 1)|r
+}
+
+STRING 1931
+// Upgrades: Rorb (Reinforced Defenses), Tip (Tooltip)
+{
+Great Taxation |r|cFF959697(Age 2)|r
+}
+
+STRING 1932
+// Upgrades: Rorb (Reinforced Defenses), Tip (Tooltip)
+{
+Great Taxation |r|cFF959697(Age 3)|r
+}
+
+STRING 1933
+// Upgrades: Rorb (Reinforced Defenses), Tip (Tooltip)
+{
+Great Taxation |r|cFF959697(Age 4)|r
+}
+
+STRING 1934
+// Upgrades: Rorb (Reinforced Defenses), Tip (Tooltip)
+{
+Great Taxation |r|cFF959697(Age 5)|r
+}
+
+STRING 1935
+// Upgrades: Rorb (Reinforced Defenses), Name (Name)
+{
+Great Taxation
+}
+
+STRING 1936
+// Upgrades: Rorb (Reinforced Defenses), Name (Name)
+{
+Great Taxation
+}
+
+STRING 1937
+// Upgrades: Rorb (Reinforced Defenses), Name (Name)
+{
+Great Taxation
+}
+
+STRING 1938
+// Upgrades: Rorb (Reinforced Defenses), Name (Name)
+{
+Great Taxation
+}
+
+STRING 1939
+// Upgrades: Rorb (Reinforced Defenses), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5 |r|cFFFFFFFFCountry Tax|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1940
+// Upgrades: Rorb (Reinforced Defenses), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5 |r|cFFFFFFFFCountry Tax|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1941
+// Upgrades: Rorb (Reinforced Defenses), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5 |r|cFFFFFFFFCountry Tax|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1942
+// Upgrades: Rorb (Reinforced Defenses), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5 |r|cFFFFFFFFCountry Tax|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1943
+// Upgrades: Rorb (Reinforced Defenses), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5 |r|cFFFFFFFFCountry Tax|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1944
+// Units: h01H (Florence National Academy), Name (Name)
+{
+Florence National Academy
+}
+
+STRING 1945
+// Units: h01G (Florence), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Birthplace of the Renaissance:|n|r|cFF00FF00+25% |r|cFFFFFFFFScience Income|n|r|cFFFFCC00Condottiero:|n|r|cFF00FF00+2 |r|cFFFFFFFFHired Mercenaries, Enables Condottiero|n|r|cFFFFCC00Territorial Ambitions:|n|r|cFF00FF00+25% |r|cFFFFFFFFMax Manpower|n|r|cFFFFCC00Porto Franco:|n|r|cFF00FF00+10% |r|cFFFFFFFFProduction Income|n|r|cFFFFCC00Administrative Reforms:|n|r|cFF00FF00+10% |r|cFFFFFFFFDevelopment Income|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 1947
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Name (Name)
+{
+Cheaper Contracts
+}
+
+STRING 1948
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Name (Name)
+{
+Cheaper Contracts
+}
+
+STRING 1949
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Name (Name)
+{
+Cheaper Contracts
+}
+
+STRING 1950
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Name (Name)
+{
+Cheaper Contracts
+}
+
+STRING 1951
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Name (Name)
+{
+Cheaper Contracts
+}
+
+STRING 1952
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Tip (Tooltip)
+{
+Cheaper Contracts |r|cFF959697(Age 1)|r
+}
+
+STRING 1953
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Tip (Tooltip)
+{
+Cheaper Contracts |r|cFF959697(Age 2)|r
+}
+
+STRING 1954
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Tip (Tooltip)
+{
+Cheaper Contracts |r|cFF959697(Age 3)|r
+}
+
+STRING 1955
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Tip (Tooltip)
+{
+Cheaper Contracts |r|cFF959697(Age 4)|r
+}
+
+STRING 1956
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Tip (Tooltip)
+{
+Cheaper Contracts |r|cFF959697(Age 5)|r
+}
+
+STRING 1957
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+7% |r|cFFFFFFFFMercenary Discount|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 50 Science|r
+}
+
+STRING 1958
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+7% |r|cFFFFFFFFMercenary Discount|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 75 Science|r
+}
+
+STRING 1959
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+7% |r|cFFFFFFFFMercenary Discount|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 100 Science|r
+}
+
+STRING 1960
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+7% |r|cFFFFFFFFMercenary Discount|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 125 Science|r
+}
+
+STRING 1961
+// Upgrades: Rost (Shaman Adept Training,Shaman Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+7% |r|cFFFFFFFFMercenary Discount|n|n|r|cFFFFCC00Cost:|r|cFFFFFFFF 150 Science|r
+}
+
+STRING 1962
+// Units: h01I (Merchant), Name (Name)
+{
+Merchant
+}
+
+STRING 1963
+{
+Player 21
+}
+
+STRING 1964
+// Upgrades: Rhan (Animal War Training), Tip (Tooltip)
+{
+Steel Barding |r|cFF959697(Age 1)|r
+}
+
+STRING 1965
+// Upgrades: Rhan (Animal War Training), Tip (Tooltip)
+{
+Steel Barding |r|cFF959697(Age 2)|r
+}
+
+STRING 1966
+// Upgrades: Rhan (Animal War Training), Tip (Tooltip)
+{
+Steel Barding |r|cFF959697(Age 3)|r
+}
+
+STRING 1967
+// Upgrades: Rhan (Animal War Training), Tip (Tooltip)
+{
+Steel Barding |r|cFF959697(Age 4)|r
+}
+
+STRING 1968
+// Upgrades: Rhan (Animal War Training), Tip (Tooltip)
+{
+Steel Barding |r|cFF959697(Age 5)|r
+}
+
+STRING 1969
+// Upgrades: Rhfc (Flak Cannons), Tip (Tooltip)
+{
+Pillage |r|cFF959697(Age 1)|r
+}
+
+STRING 1970
+// Upgrades: Rhfc (Flak Cannons), Tip (Tooltip)
+{
+Pillage |r|cFF959697(Age 2)|r
+}
+
+STRING 1971
+// Upgrades: Rhfc (Flak Cannons), Tip (Tooltip)
+{
+Pillage |r|cFF959697(Age 3)|r
+}
+
+STRING 1972
+// Upgrades: Rhfc (Flak Cannons), Tip (Tooltip)
+{
+Pillage |r|cFF959697(Age 4)|r
+}
+
+STRING 1973
+// Upgrades: Rhfc (Flak Cannons), Tip (Tooltip)
+{
+Pillage |r|cFF959697(Age 5)|r
+}
+
+STRING 1974
+// Abilities: A00A (Invest on Tax), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGrants|r|cFFFFCC00 |r|cFF00FF00+1 |r|cFFFFFFFFTax.|n|n|r|cFF959697"Each Tax grants atleast +4 Gold Income."|r
+}
+
+STRING 1975
+// Abilities: A00H (Invest on Production), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFGrants|r|cFFFFCC00 |r|cFF00FF00+1 |r|cFFFFFFFFProduction.|n|n|r|cFF959697"Each Town Production grants atleast +2 Lumber Income."|r
+}
+
+STRING 1976
+// Units: h00J (General), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFSpecial Strong Unit that can learn different skills to aid your Army.|n|n|r|cFFFFCC00Gold Maintenance Cost:|r|cFFFFFFFF 8|r
+}
+
+STRING 1977
+// Units: h01J (Information), Name (Name)
+{
+Information
+}
+
+STRING 1978
+// Abilities: A024 (Player 1 Bonuses), Name (Name)
+{
+Player 1 Bonuses
+}
+
+STRING 1979
+// Abilities: A024 (Player 1 Bonuses), Tip (Tooltip - Normal)
+{
+Player 1 Bonuses
+}
+
+STRING 1981
+// Abilities: A016 (Demand Gold Income for Truce), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFFFFFDemand Gold Income for a Peace Deal.|n|n|r|cFFFFCC00Demand:|n|r|cFF00FF00+10|r|cFFFFCC00 |r|cFFFFFFFFGold Income|n|n|r|cFFFFCC00Offer:|n|r|cFFFFFFFF30 Months of Truce|n|r|cFFFF0000-10 |r|cFFFFFFFFGold Income|r
+}
+
+STRING 1982
+// Units: h00B (Ottomans), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Ghazi:|n|r|cFF00FF00+15% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Mehmed Imperial Armory:|n|r|cFF00FF00+20% |r|cFFFFFFFFSiege Power|n|r|cFFFFCC00The Law Code of Suleiman:|n|r|cFF00FF00+25% |r|cFFFFFFFFTax Income|n|r|cFFFFCC00Tulip Period:|n|r|cFF00FF00+20% |r|cFFFFFFFFProduction Income|n|r|cFFFFCC00Pax Ottomans:|n|r|cFF00FF00+15% |r|cFFFFFFFFAll Units Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Sunni|r
+}
+
+STRING 2005
+// Abilities: A021 (Production: Wheat), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Effect per Level:|n|r|cFF00FF00+0.5|r|cFFFFFFFF All Units HP Regen|n|n|r|cFFFFCC00Trade Value per Level:|r|cFFFFFFFF 6|n|n|r|cFFFFCC00Trade Power per Invesment:|r|cFFFFFFFF 100|r
+}
+
+STRING 2006
+// Abilities: A022 (Production: Paper), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Effect per Level:|n|r|cFF00FF00+2% |r|cFFFFFFFFScience Income|n|n|r|cFFFFCC00Trade Value per Level:|r|cFFFFFFFF 10|n|n|r|cFFFFCC00Trade Power per Invesment:|r|cFFFFFFFF 100|r
+}
+
+STRING 2017
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Name (Name)
+{
+Colonization Efforts
+}
+
+STRING 2018
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Name (Name)
+{
+Colonization Efforts
+}
+
+STRING 2019
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Name (Name)
+{
+Colonization Efforts
+}
+
+STRING 2020
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Name (Name)
+{
+Colonization Efforts
+}
+
+STRING 2021
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Name (Name)
+{
+Colonization Efforts
+}
+
+STRING 2022
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Tip (Tooltip)
+{
+Colonization Efforts |r|cFF959697(Age 1)|r
+}
+
+STRING 2023
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Tip (Tooltip)
+{
+Colonization Efforts |r|cFF959697(Age 2)|r
+}
+
+STRING 2024
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Tip (Tooltip)
+{
+Colonization Efforts |r|cFF959697(Age 3)|r
+}
+
+STRING 2025
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Tip (Tooltip)
+{
+Colonization Efforts |r|cFF959697(Age 4)|r
+}
+
+STRING 2026
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Tip (Tooltip)
+{
+Colonization Efforts |r|cFF959697(Age 5)|r
+}
+
+STRING 2027
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFColonization Efficiency|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF50 Science|r
+}
+
+STRING 2028
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFColonization Efficiency|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF75 Science|r
+}
+
+STRING 2029
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFColonization Efficiency|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF100 Science|r
+}
+
+STRING 2030
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFColonization Efficiency|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF125 Science|r
+}
+
+STRING 2031
+// Upgrades: Rowt (Spirit Walker Adept Training,Spirit Walker Master Training), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00+5% |r|cFFFFFFFFColonization Efficiency|n|n|r|cFFFFCC00Cost: |r|cFFFFFFFF150 Science|r
+}
+
+STRING 2032
+// Units: h00A (Portugal), Ubertip (Tooltip - Extended)
+{
+|cFFFFCC00Encourage the Bandeirantes:|n|r|cFF00FF00+25%|r|cFFFFFFFF Colonization Efficiency|n|r|cFFFFCC00Afonsine Ordinance:|n|r|cFF00FF00+15%|r|cFFFFFFFF Trade Income|n|r|cFFFFCC00Royal Absolutism: |n|r|cFF00FF00+15% |r|cFFFFFFFFDevelopment Income|n|r|cFFFFCC00More Men on Reserves:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Western Troops:|n|r|cFF00FF00+5% |r|cFFFFFFFFAll Units Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 2036
+{
+Player 22
+}
+
+STRING 2039
+// Units: h01K (Cloth Manufactory), Name (Name)
+{
+Cloth Manufactory
+}
+
+STRING 2040
+// Units: h01K (Cloth Manufactory), Tip (Tooltip - Basic)
+{
+Cloth Manufactory
+}
+
+STRING 2041
+// Abilities: A026 (Production: Cloth), Name (Name)
+{
+Production: Cloth
+}
+
+STRING 2042
+// Abilities: A026 (Production: Cloth), Tip (Tooltip - Normal)
+{
+|cFFFFCC00Production: |r|cFFFFFFFFCloth|r
+}
+
+STRING 2043
+// Abilities: A026 (Production: Cloth), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Effect per Level:|n|r|cFF00FF00+2% |r|cFFFFFFFFDevelopment Income|n|n|r|cFFFFCC00Trade Value per Level:|r|cFFFFFFFF 8|n|n|r|cFFFFCC00Trade Power per Invesment:|r|cFFFFFFFF 100|r
+}
+
+STRING 2044
+// Units: h01L (Gem Mine), Name (Name)
+{
+Gem Mine
+}
+
+STRING 2045
+// Units: h01L (Gem Mine), Tip (Tooltip - Basic)
+{
+Gem Mine
+}
+
+STRING 2046
+// Units: h01M (Lumber Mill), Name (Name)
+{
+Lumber Mill
+}
+
+STRING 2047
+// Units: h01M (Lumber Mill), Tip (Tooltip - Basic)
+{
+Lumber Mill
+}
+
+STRING 2048
+// Abilities: A027 (Production: Gem), Name (Name)
+{
+Production: Gem
+}
+
+STRING 2049
+// Abilities: A027 (Production: Gem), Tip (Tooltip - Normal)
+{
+|cFFFFCC00Production: |r|cFFFFFFFFGem|r
+}
+
+STRING 2050
+// Abilities: A027 (Production: Gem), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Effect per Level:|n|r|cFF00FF00+2% |r|cFFFFFFFFTrade Income|n|n|r|cFFFFCC00Trade Value per Level:|r|cFFFFFFFF 12|n|n|r|cFFFFCC00Trade Power per Invesment:|r|cFFFFFFFF 200|r
+}
+
+STRING 2051
+// Abilities: A028 (Production: Tropical Wood), Name (Name)
+{
+Production: Tropical Wood
+}
+
+STRING 2052
+// Abilities: A028 (Production: Tropical Wood), Tip (Tooltip - Normal)
+{
+|cFFFFCC00Production: |r|cFFFFFFFFTropical Wood|r
+}
+
+STRING 2053
+// Abilities: A028 (Production: Tropical Wood), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Effect per Level:|n|r|cFF00FF00+3% |r|cFFFFFFFFProduction Income|n|n|r|cFFFFCC00Trade Value per Level:|r|cFFFFFFFF 8|n|n|r|cFFFFCC00Trade Power per Invesment:|r|cFFFFFFFF 100|r
+}
+
+STRING 2054
+// Doodads: D000 (A Mushroom Green), Name (Name)
+{
+A Mushroom Green
+}
+
+STRING 2055
+// Doodads: D001 (A Mushroom Brown), Name (Name)
+{
+A Mushroom Brown
+}
+
+STRING 2056
+// Doodads: D002 (A Mushroom Blue), Name (Name)
+{
+A Mushroom Blue
+}
+
+STRING 2057
+// Doodads: D003 (A Clovers), Name (Name)
+{
+A Clovers
+}
+
+STRING 2058
+// Doodads: D004 (A Grass), Name (Name)
+{
+A Grass
+}
+
+STRING 2059
+// Doodads: D005 (A Barren Shrub), Name (Name)
+{
+A Barren Shrub
+}
+
+STRING 2060
+// Abilities: Ahrp (Build), Name (Name)
+{
+Build
+}
+
+STRING 2074
+// Units: H00L (Old City State), Name (Name)
+{
+Old City State
+}
+
+STRING 2075
+// Units: H00L (Old City State), Propernames (Proper Names)
+{
+Old City State
+}
+
+STRING 2084
+// Abilities: A011 (Attachment: Borzoc Overlord), Name (Name)
+{
+Attachment: Borzoc Overlord
+}
+
+STRING 2085
+// Abilities: A011 (Attachment: Borzoc Overlord), Tip (Tooltip - Normal)
+{
+Borzoc
+}
+
+STRING 2086
+// Abilities: A02B (Attachment: Elkwitz Subject), Name (Name)
+{
+Attachment: Elkwitz Subject
+}
+
+STRING 2087
+// Abilities: A02B (Attachment: Elkwitz Subject), Tip (Tooltip - Normal)
+{
+Borzoc
+}
+
+STRING 2088
+// Abilities: A02B (Attachment: Elkwitz Subject), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Rein in the Clans: |n|r|cFF00FF00+20% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Basilikon Doron:|r|cFFFFFFFF |n|r|cFF00FF00+25%|r|cFFFFFFFF General Stats, |r|cFF00FF00+2 |r|cFFFFFFFFGeneral Skill Level|n|r|cFFFFCC00Highlanders:|n|r|cFFFFFFFFSpearman: |r|cFF00FF00+33%|r|cFFFFFFFF Gold Cost, |r|cFF00FF00+10%|r|cFFFFFFFF Power, |r|cFF00FF00+50% |r|cFFFFFFFFRange, |r|cFF00FF00+2 |r|cFFFFFFFFArmor Penetration|n|r|cFFFFCC00Tighten up Royal Revenue:|n|r|cFF00FF00+15% |r|cFFFFFFFFTax Income|n|r|cFFFFCC00Furor Scottica:|n|r|cFF00FF00+20% |r|cFFFFFFFFSiege HP|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 2089
+// Abilities: A01E (Attachment: Elkwitz), Name (Name)
+{
+Attachment: Elkwitz
+}
+
+STRING 2090
+// Abilities: A01G (Attachment: Borzoc), Name (Name)
+{
+Attachment: Borzoc
+}
+
+STRING 2091
+// Abilities: A02C (Attachment: Kiris), Name (Name)
+{
+Attachment: Kiris
+}
+
+STRING 2092
+// Abilities: A02C (Attachment: Kiris), Tip (Tooltip - Normal)
+{
+Denmark
+}
+
+STRING 2093
+// Abilities: A02C (Attachment: Kiris), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00More Taxes:|n|r|cFF00FF00+15%|r|cFFFFFFFF Tax Income|n|r|cFFFFCC00More Lumber:|n|r|cFF00FF00+15%|r|cFFFFFFFF Lumber Income|n|r|cFFFFCC00More Troops are Ready:|n|r|cFF00FF00+10% |r|cFFFFFFFFMax Manpower|n|r|cFFFFCC00More Men on Reserves:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Western Troops:|n|r|cFF00FF00+5% |r|cFFFFFFFFAll Units Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 2094
+// Abilities: A02D (Attachment: Kiris Overlord), Name (Name)
+{
+Attachment: Kiris Overlord
+}
+
+STRING 2095
+// Abilities: A02D (Attachment: Kiris Overlord), Tip (Tooltip - Normal)
+{
+Denmark
+}
+
+STRING 2096
+// Abilities: A02D (Attachment: Kiris Overlord), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00More Taxes:|n|r|cFF00FF00+15%|r|cFFFFFFFF Tax Income|n|r|cFFFFCC00More Lumber:|n|r|cFF00FF00+15%|r|cFFFFFFFF Lumber Income|n|r|cFFFFCC00More Troops are Ready:|n|r|cFF00FF00+10% |r|cFFFFFFFFMax Manpower|n|r|cFFFFCC00More Men on Reserves:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Western Troops:|n|r|cFF00FF00+5% |r|cFFFFFFFFAll Units Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 2097
+// Abilities: A02E (Attachment: Kiris Subject), Name (Name)
+{
+Attachment: Kiris Subject
+}
+
+STRING 2098
+// Abilities: A02E (Attachment: Kiris Subject), Tip (Tooltip - Normal)
+{
+Denmark
+}
+
+STRING 2099
+// Abilities: A02E (Attachment: Kiris Subject), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00More Taxes:|n|r|cFF00FF00+15%|r|cFFFFFFFF Tax Income|n|r|cFFFFCC00More Lumber:|n|r|cFF00FF00+15%|r|cFFFFFFFF Lumber Income|n|r|cFFFFCC00More Troops are Ready:|n|r|cFF00FF00+10% |r|cFFFFFFFFMax Manpower|n|r|cFFFFCC00More Men on Reserves:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Western Troops:|n|r|cFF00FF00+5% |r|cFFFFFFFFAll Units Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 2100
+// Abilities: A02F (Attachment: Elkwitz Overlord), Name (Name)
+{
+Attachment: Elkwitz Overlord
+}
+
+STRING 2101
+// Abilities: A02F (Attachment: Elkwitz Overlord), Tip (Tooltip - Normal)
+{
+Borzoc
+}
+
+STRING 2102
+// Abilities: A02F (Attachment: Elkwitz Overlord), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Rein in the Clans: |n|r|cFF00FF00+20% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Basilikon Doron:|r|cFFFFFFFF |n|r|cFF00FF00+25%|r|cFFFFFFFF General Stats, |r|cFF00FF00+2 |r|cFFFFFFFFGeneral Skill Level|n|r|cFFFFCC00Highlanders:|n|r|cFFFFFFFFSpearman: |r|cFF00FF00+33%|r|cFFFFFFFF Gold Cost, |r|cFF00FF00+10%|r|cFFFFFFFF Power, |r|cFF00FF00+50% |r|cFFFFFFFFRange, |r|cFF00FF00+2 |r|cFFFFFFFFArmor Penetration|n|r|cFFFFCC00Tighten up Royal Revenue:|n|r|cFF00FF00+15% |r|cFFFFFFFFTax Income|n|r|cFFFFCC00Furor Scottica:|n|r|cFF00FF00+20% |r|cFFFFFFFFSiege HP|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 2103
+// Abilities: A02G (Attachment: Borzoc Subject), Name (Name)
+{
+Attachment: Borzoc Subject
+}
+
+STRING 2105
+// Abilities: A00W (Attachment: Ardinel), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Repopulation of the Countryside:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Forts of Roman Empire:|n|r|cFF00FF00+25%|r|cFFFFFFFF Building HP, |r|cFF00FF00+2 |r|cFFFFFFFFDefender Armor Bonus|n|r|cFFFFCC00Restore the Ecumenical Patriarch:|n|r|cFF00FF00+15%|r|cFFFFFFFF Religious Power Income|n|r|cFFFFCC00Defense of Byzantium:|n|r|cFF00FF00+4 |r|cFFFFFFFFAttrition Damage|n|r|cFFFFCC00Cataphract:|n|r|cFFFFFFFFKnight:|r|cFF00FF00 +20% |r|cFFFFFFFFHP,|r|cFF00FF00 +25% |r|cFFFFFFFFMelee Evasion Chance, |r|cFFFF0000-10%|r|cFFFFFFFF Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Orthodox|r
+}
+
+STRING 2106
+// Abilities: A02H (Attachment: Feuforn), Name (Name)
+{
+Attachment: Feuforn
+}
+
+STRING 2107
+// Abilities: A02H (Attachment: Feuforn), Tip (Tooltip - Normal)
+{
+Denmark
+}
+
+STRING 2108
+// Abilities: A02H (Attachment: Feuforn), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00More Taxes:|n|r|cFF00FF00+15%|r|cFFFFFFFF Tax Income|n|r|cFFFFCC00More Lumber:|n|r|cFF00FF00+15%|r|cFFFFFFFF Lumber Income|n|r|cFFFFCC00More Troops are Ready:|n|r|cFF00FF00+10% |r|cFFFFFFFFMax Manpower|n|r|cFFFFCC00More Men on Reserves:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Western Troops:|n|r|cFF00FF00+5% |r|cFFFFFFFFAll Units Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 2109
+// Abilities: A005 (Attachment: Feuforn Subject), Name (Name)
+{
+Attachment: Feuforn Subject
+}
+
+STRING 2110
+// Abilities: A005 (Attachment: Feuforn Subject), Tip (Tooltip - Normal)
+{
+Denmark
+}
+
+STRING 2111
+// Abilities: A005 (Attachment: Feuforn Subject), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00More Taxes:|n|r|cFF00FF00+15%|r|cFFFFFFFF Tax Income|n|r|cFFFFCC00More Lumber:|n|r|cFF00FF00+15%|r|cFFFFFFFF Lumber Income|n|r|cFFFFCC00More Troops are Ready:|n|r|cFF00FF00+10% |r|cFFFFFFFFMax Manpower|n|r|cFFFFCC00More Men on Reserves:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Western Troops:|n|r|cFF00FF00+5% |r|cFFFFFFFFAll Units Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 2112
+// Abilities: A00D (Attachment: Feuforn Overlord), Name (Name)
+{
+Attachment: Feuforn Overlord
+}
+
+STRING 2113
+// Abilities: A00D (Attachment: Feuforn Overlord), Tip (Tooltip - Normal)
+{
+Denmark
+}
+
+STRING 2114
+// Abilities: A00D (Attachment: Feuforn Overlord), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00More Taxes:|n|r|cFF00FF00+15%|r|cFFFFFFFF Tax Income|n|r|cFFFFCC00More Lumber:|n|r|cFF00FF00+15%|r|cFFFFFFFF Lumber Income|n|r|cFFFFCC00More Troops are Ready:|n|r|cFF00FF00+10% |r|cFFFFFFFFMax Manpower|n|r|cFFFFCC00More Men on Reserves:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Western Troops:|n|r|cFF00FF00+5% |r|cFFFFFFFFAll Units Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 2115
+// Abilities: A00V (Attachment: Feuforn Big), Name (Name)
+{
+Attachment: Feuforn Big
+}
+
+STRING 2116
+// Abilities: A00V (Attachment: Feuforn Big), Tip (Tooltip - Normal)
+{
+Denmark
+}
+
+STRING 2117
+// Abilities: A00V (Attachment: Feuforn Big), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00More Taxes:|n|r|cFF00FF00+15%|r|cFFFFFFFF Tax Income|n|r|cFFFFCC00More Lumber:|n|r|cFF00FF00+15%|r|cFFFFFFFF Lumber Income|n|r|cFFFFCC00More Troops are Ready:|n|r|cFF00FF00+10% |r|cFFFFFFFFMax Manpower|n|r|cFFFFCC00More Men on Reserves:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Western Troops:|n|r|cFF00FF00+5% |r|cFFFFFFFFAll Units Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Catholic|r
+}
+
+STRING 2118
+// Units: h010 (Feuhorn Barracks), Name (Name)
+{
+Feuhorn Barracks
+}
+
+STRING 2120
+// Units: h002 (Feuhornic Gryphon), Name (Name)
+{
+Feuhornic Gryphon
+}
+
+STRING 2121
+// Units: h002 (Feuhornic Gryphon), Tip (Tooltip - Basic)
+{
+Train Feuhornic Gryphon
+}
+
+STRING 2122
+// Units: h002 (Feuhornic Gryphon), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFA powerful ground unit with the body of a lion and the head of an eagle. It can cast |r|cFFFFCC00Flame Talons.|n|nDamage Type: |r|cFFFFFFFFNormal|n|r|cFFFFCC00Armor Type:|r|cFFFFFFFF Light|n|n|r|cFFFFCC00Group: |r|cFFFFFFFFMelee, Ground, Magic, Elite|n|n|r|cFFFFCC00Manpower Cost: |r|cFFFFFFFF2|n|r|cFF00FFFFMagic Cost: |r|cFFFFFFFF20|n|n|r|cFFFFCC00Flame Talons: |r|cFFFFFFFFDeals |r|cFFFF0000100 |r|cFFFFFFFFdamage to nearby enemies in a |r|cFFFFCC00300|r|cFFFFFFFF Radius.|r
+}
+
+STRING 2123
+// Abilities: A006 (Spam Spell 1 (Melee Range)), Name (Name)
+{
+Spam Spell 1 (Melee Range)
+}
+
+STRING 2124
+// Units: h00Z (Ardinel), Name (Name)
+{
+Ardinel
+}
+
+STRING 2125
+// Units: h00Z (Ardinel), Tip (Tooltip - Basic)
+{
+Human and Elf Union Kingdom of Ardinel
+}
+
+STRING 2126
+// Units: h00Z (Ardinel), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFThe Kingdom of Ardinel is a powerful union of humans and elves, thriving on ancient alliances forged in the wake of ancient wars.|n|r|cFFFFCC00Bonuses:|n|r|cFF00FF00+15%|r|cFFFFFFFF Influence|n|r|cFF00FF00+1|r|cFFFFFFFF Diplomatic Relations|n|r|cFF00FF00+10%|r|cFFFFFFFF Gold Income|n|r|cFF00FF00+10%|r|cFFFFFFFF Lumber Income|n|r|cFF00FF00+10%|r|cFFFFFFFF Development Income|r
+}
+
+STRING 2127
+// Abilities: A00W (Attachment: Ardinel), Name (Name)
+{
+Attachment: Ardinel
+}
+
+STRING 2128
+// Abilities: A00W (Attachment: Ardinel), Tip (Tooltip - Normal)
+{
+Ardinel
+}
+
+STRING 2130
+// Abilities: A01D (Attachment: Ardinel 25), Tip (Tooltip - Normal)
+{
+Ardinel
+}
+
+STRING 2131
+// Abilities: A01D (Attachment: Ardinel 25), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Repopulation of the Countryside:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Forts of Roman Empire:|n|r|cFF00FF00+25%|r|cFFFFFFFF Building HP, |r|cFF00FF00+2 |r|cFFFFFFFFDefender Armor Bonus|n|r|cFFFFCC00Restore the Ecumenical Patriarch:|n|r|cFF00FF00+15%|r|cFFFFFFFF Religious Power Income|n|r|cFFFFCC00Defense of Byzantium:|n|r|cFF00FF00+4 |r|cFFFFFFFFAttrition Damage|n|r|cFFFFCC00Cataphract:|n|r|cFFFFFFFFKnight:|r|cFF00FF00 +20% |r|cFFFFFFFFHP,|r|cFF00FF00 +25% |r|cFFFFFFFFMelee Evasion Chance, |r|cFFFF0000-10%|r|cFFFFFFFF Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Orthodox|r
+}
+
+STRING 2132
+// Abilities: A01D (Attachment: Ardinel 25), Name (Name)
+{
+Attachment: Ardinel 25
+}
+
+STRING 2133
+// Abilities: A01Q (Attachment: Ardinel 20), Name (Name)
+{
+Attachment: Ardinel 20
+}
+
+STRING 2134
+// Abilities: A01Q (Attachment: Ardinel 20), Tip (Tooltip - Normal)
+{
+Ardinel
+}
+
+STRING 2135
+// Abilities: A01Q (Attachment: Ardinel 20), Ubertip (Tooltip - Normal - Extended)
+{
+|cFFFFCC00Repopulation of the Countryside:|n|r|cFF00FF00+10% |r|cFFFFFFFFManpower Recovery Speed|n|r|cFFFFCC00Forts of Roman Empire:|n|r|cFF00FF00+25%|r|cFFFFFFFF Building HP, |r|cFF00FF00+2 |r|cFFFFFFFFDefender Armor Bonus|n|r|cFFFFCC00Restore the Ecumenical Patriarch:|n|r|cFF00FF00+15%|r|cFFFFFFFF Religious Power Income|n|r|cFFFFCC00Defense of Byzantium:|n|r|cFF00FF00+4 |r|cFFFFFFFFAttrition Damage|n|r|cFFFFCC00Cataphract:|n|r|cFFFFFFFFKnight:|r|cFF00FF00 +20% |r|cFFFFFFFFHP,|r|cFF00FF00 +25% |r|cFFFFFFFFMelee Evasion Chance, |r|cFFFF0000-10%|r|cFFFFFFFF Attack Speed|n|n|r|cFFFFCC00Religion:|r|cFFFFFFFF Orthodox|r
+}
+
